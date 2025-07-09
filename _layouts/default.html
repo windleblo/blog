@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.title }}</title>
+  <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
+  
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ '/feed.xml' | relative_url }}">
+  
+  {% seo %}
+</head>
+<body>
+  <div class="wrapper">
+    <header class="site-header">
+      <div class="header-wrapper">
+        <h1 class="site-title">
+          <a href="{{ '/' | relative_url }}">{{ site.title }}</a>
+        </h1>
+        <p class="site-tagline">{{ site.tagline }}</p>
+        
+        <nav class="site-nav">
+          <a href="{{ '/' | relative_url }}">Home</a>
+          <a href="{{ '/about/' | relative_url }}">About</a>
+          <a href="{{ '/where-we-are/' | relative_url }}">Where we are</a>
+          <a href="{{ '/contact/' | relative_url }}">Contact Us</a>
+        </nav>
+      </div>
+    </header>
+
+    <main class="page-content">
+      {{ content }}
+    </main>
+
+    <footer class="site-footer">
+      <div class="footer-wrapper">
+        <p>&copy; {{ 'now' | date: '%Y' }} {{ site.title }}</p>
+      </div>
+    </footer>
+  </div>
+</body>
+</html>
