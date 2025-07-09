@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Windleblo"
+date: 2010-06-19T12:00:00-07:00
+author: Jack
+categories: [uncategorized]
+original_url: https://windleblo.blogspot.com/2010/06/martin-and-phil-departed-wednesday.html
+---
+
+Martin and Phil departed Wednesday morning, leaving me with a day and a half before my next crew arrived. I filled the time with, go figure, boat chores. First, I trucked two miles on foot to find a good hardware store for supplies. Then, I mounted my P-EPIRB on the bulkhead, checked the battery acid level, and diagnosed the autopilot alarm that had crept in outside Leba. And, of course, there was laundry and boat cleaning. Between chores and catching up on sleep, there was no time for play. Makes Jack a dull boy. Finally, it was time to go to the airport. I picked up roses for my girls on the way to the bus stop. Phil had emailed that the 210 bus had worked perfectly for his trip to the airport, and indeed it did for mine. It also provided an interesting tour of Gdansk neighborhoods. Their plane from Frankfurt was a half-hour late, but eventually Jocelyn and Emily emerged from the Schengen arrivals door each pushing a cart laden with two huge boxes. Onlookers observed three Americans greeting each other in giddy embrace. We next found a large taxi for the 13 kilometer ride to the boat. We celebrated their safe arrival by dining out at a fine restaurant on one of Gdansk's most charming side streets, enjoying an authentic Polish meal of peroigis and wild boar with mushroom sauce washed down with good Polish beer. All for about a third of what it would cost in the States. Back on the boat, we stowed gear for about an hour. After checking the weather, we resolved to leave Friday afternoon for a return to Hel, which would serve as a good jumping off point for the 100 nautical mile voyage to Klaipeda, Lithuania. It seems there is no time to spare as the winds turn against us late Sunday. We retired looking ahead to more adventure.
