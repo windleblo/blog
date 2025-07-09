@@ -5,17 +5,32 @@ title: Contact Us
 
 # Contact Us
 
-We'd love to hear from you! Whether you're a fellow sailor, someone planning their own adventure, or just enjoy reading about our journeys, feel free to reach out.
+We'd love to hear from fellow sailors, cruising enthusiasts, and anyone who enjoys following our adventures aboard S/V Windleblo.
 
 ## Get in Touch
 
-You can contact us through our blog or connect with us on social media. We enjoy hearing from other sailors and sharing experiences from the cruising community.
+Whether you have questions about our routes, want to share your own sailing stories, or are planning your own cruising adventure, feel free to reach out.
 
-## Following Our Journey
+### For Fellow Sailors
 
-Keep up with our latest adventures by:
-- Reading our blog posts
-- Subscribing to our RSS feed
-- Following our route updates
+If you're cruising in the same waters or have questions about any of the anchorages or passages we've written about, we're happy to share our experiences and any local knowledge that might be helpful.
 
-Safe travels and fair winds!
+### For Cruising Dreamers
+
+If you're planning your own cruising adventures and have questions about boat preparation, route planning, or the cruising lifestyle, we're glad to share what we've learned along the way.
+
+## Following Our Adventures
+
+Stay connected with our latest posts and adventures:
+
+- **RSS Feed**: Subscribe to our [RSS feed](/feed.xml) for automatic updates
+- **Blog Archives**: Browse our complete archive of posts going back to 2015
+- **Recent Posts**: Check our [homepage](/) for the latest updates
+
+## About This Blog
+
+This blog serves as both a cruising log and a way to share the realities and rewards of life aboard a cruising sailboat. From technical challenges to breathtaking anchorages, we aim to provide an honest look at the cruising life.
+
+We appreciate you following along with our journey and hope our experiences might inspire or inform your own adventures on the water.
+
+*Safe travels and fair winds!*

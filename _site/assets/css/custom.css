@@ -1,0 +1,64 @@
+/* Custom styles for Windleblo blog */
+
+/* Wider margins for better readability */
+.site-header,
+.page-content,
+.site-footer {
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
+/* Specifically for post content - even wider margins */
+.post-content,
+.page-content {
+  max-width: 800px;
+  margin: 0 auto;
+  padding-left: 60px;
+  padding-right: 60px;
+}
+
+/* Better spacing for post lists */
+.post-list {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 0 40px;
+}
+
+/* Responsive adjustments */
+@media (max-width: 900px) {
+  .site-header,
+  .page-content,
+  .site-footer {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+  
+  .post-content,
+  .page-content {
+    padding-left: 40px;
+    padding-right: 40px;
+  }
+  
+  .post-list {
+    padding: 0 30px;
+  }
+}
+
+@media (max-width: 600px) {
+  .site-header,
+  .page-content,
+  .site-footer {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  
+  .post-content,
+  .page-content {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  
+  .post-list {
+    padding: 0 20px;
+  }
+}
