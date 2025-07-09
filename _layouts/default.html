@@ -13,32 +13,32 @@
   {% seo %}
 </head>
 <body>
-  <div class="wrapper">
-    <header class="site-header">
-      <div class="header-wrapper">
-        <h1 class="site-title">
-          <a href="{{ '/' | relative_url }}">{{ site.title }}</a>
-        </h1>
-        <p class="site-tagline">{{ site.tagline }}</p>
-        
-        <nav class="site-nav">
-          <a href="{{ '/' | relative_url }}">Home</a>
-          <a href="{{ '/about' | relative_url }}">About</a>
-          <a href="{{ '/where-we-are' | relative_url }}">Where we are</a>
-          <a href="{{ '/contact' | relative_url }}">Contact Us</a>
-        </nav>
-      </div>
-    </header>
+  <header class="site-header">
+    <div class="header-wrapper">
+      <h1 class="site-title">
+        <a href="{{ '/' | relative_url }}">{{ site.title }}</a>
+      </h1>
+      <p class="site-tagline">{{ site.tagline }}</p>
+      
+      <nav class="site-nav">
+        <a href="{{ '/' | relative_url }}">Home</a>
+        <a href="{{ '/about' | relative_url }}">About</a>
+        <a href="{{ '/where-we-are' | relative_url }}">Where we are</a>
+        <a href="{{ '/contact' | relative_url }}">Contact Us</a>
+      </nav>
+    </div>
+  </header>
 
+  <div class="wrapper">
     <main class="page-content">
       {{ content }}
     </main>
-
-    <footer class="site-footer">
-      <div class="footer-wrapper">
-        <p>&copy; {{ 'now' | date: '%Y' }} {{ site.title }}</p>
-      </div>
-    </footer>
   </div>
+
+  <footer class="site-footer">
+    <div class="footer-wrapper">
+      <p>&copy; {{ 'now' | date: '%Y' }} {{ site.title }}</p>
+    </div>
+  </footer>
 </body>
 </html>

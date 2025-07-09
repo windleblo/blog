@@ -1,16 +1,31 @@
 /* Custom styles for Windleblo blog */
 
+/* Fix header to be full width */
+.site-header {
+  padding: 20px 0;
+  margin-bottom: 30px;
+  width: 100%;
+  max-width: none;
+}
+
+.header-wrapper {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 40px;
+}
+
 /* Wider margins for better readability */
-.site-header,
 .page-content,
 .site-footer {
   padding-left: 40px;
   padding-right: 40px;
 }
 
-/* Specifically for post content - even wider margins */
+/* Specifically for post content and headers - even wider margins */
 .post-content,
-.page-content {
+.page-content,
+.post-header,
+.page-header {
   max-width: 800px;
   margin: 0 auto;
   padding-left: 60px;
@@ -26,7 +41,10 @@
 
 /* Responsive adjustments */
 @media (max-width: 900px) {
-  .site-header,
+  .header-wrapper {
+    padding: 0 30px;
+  }
+  
   .page-content,
   .site-footer {
     padding-left: 30px;
@@ -34,7 +52,9 @@
   }
   
   .post-content,
-  .page-content {
+  .page-content,
+  .post-header,
+  .page-header {
     padding-left: 40px;
     padding-right: 40px;
   }
@@ -45,7 +65,10 @@
 }
 
 @media (max-width: 600px) {
-  .site-header,
+  .header-wrapper {
+    padding: 0 20px;
+  }
+  
   .page-content,
   .site-footer {
     padding-left: 20px;
@@ -53,7 +76,9 @@
   }
   
   .post-content,
-  .page-content {
+  .page-content,
+  .post-header,
+  .page-header {
     padding-left: 20px;
     padding-right: 20px;
   }
