@@ -13,6 +13,8 @@ from urllib.parse import urljoin, urlparse
 import html2text
 import time
 import sys
+import hashlib
+import mimetypes
 
 class BlogspotMigrator:
     def __init__(self):
@@ -35,6 +37,10 @@ class BlogspotMigrator:
         self.h2t.ignore_images = False
         self.h2t.ignore_emphasis = False
         self.h2t.body_width = 0
+        
+        # Track downloaded images and redirects
+        self.downloaded_images = {}  # URL -> local path mapping
+        self.redirects = []  # List of (old_url, new_url) tuples
         
     def get_sitemap_urls(self):
         """Extract all blog post URLs from sitemap"""
@@ -99,6 +105,90 @@ class BlogspotMigrator:
         """Extract slug from URL"""
         return url.split('/')[-1].replace('.html', '')
     
+    def download_image(self, img_url, post_date):
+        """Download image and return local path"""
+        try:
+            # Skip if already downloaded
+            if img_url in self.downloaded_images:
+                return self.downloaded_images[img_url]
+            
+            print(f"  Downloading image: {img_url}")
+            
+            # Create year-based directory
+            year = post_date.split('-')[0]
+            year_dir = self.assets_dir / year
+            year_dir.mkdir(exist_ok=True)
+            
+            # Download image
+            response = self.session.get(img_url, timeout=30)
+            response.raise_for_status()
+            
+            # Get content type and extension
+            content_type = response.headers.get('content-type', '')
+            if 'image' not in content_type.lower():
+                print(f"    Warning: Not an image content type: {content_type}")
+                return None
+            
+            # Generate filename
+            url_hash = hashlib.md5(img_url.encode()).hexdigest()[:8]
+            extension = mimetypes.guess_extension(content_type) or '.jpg'
+            filename = f"img_{url_hash}{extension}"
+            
+            # Save image
+            local_path = year_dir / filename
+            with open(local_path, 'wb') as f:
+                f.write(response.content)
+            
+            # Return path relative to site root
+            relative_path = f"/assets/images/blogspot/{year}/{filename}"
+            self.downloaded_images[img_url] = relative_path
+            
+            print(f"    Saved: {relative_path}")
+            return relative_path
+            
+        except Exception as e:
+            print(f"    Error downloading {img_url}: {e}")
+            return None
+    
+    def process_images_in_content(self, content, post_date):
+        """Find and download images in content, update URLs"""
+        # Find all image tags
+        img_pattern = r'<img[^>]*src=["\']([^"\']*)["\'][^>]*>'
+        images = re.findall(img_pattern, content, re.IGNORECASE)
+        
+        if not images:
+            return content
+        
+        print(f"  Found {len(images)} images to process")
+        
+        for img_url in images:
+            # Skip data URLs and relative URLs
+            if img_url.startswith('data:') or not img_url.startswith('http'):
+                continue
+            
+            # Download image
+            local_path = self.download_image(img_url, post_date)
+            
+            if local_path:
+                # Replace URL in content
+                content = content.replace(img_url, local_path)
+        
+        return content
+    
+    def update_internal_links(self, content, post_date):
+        """Update links to other Blogspot posts"""
+        # Pattern to match links to windleblo.blogspot.com posts
+        link_pattern = r'https?://windleblo\.blogspot\.com/(\d{4})/(\d{2})/([^/]+)\.html'
+        
+        def replace_link(match):
+            year, month, slug = match.groups()
+            # Convert to Jekyll URL format
+            new_url = f"/blog/{year}/{month}/01/{slug}/"
+            return new_url
+        
+        updated_content = re.sub(link_pattern, replace_link, content)
+        return updated_content
+    
     def fetch_post_content(self, url):
         """Fetch and parse individual post content"""
         print(f"Fetching: {url}")
@@ -142,7 +232,8 @@ class BlogspotMigrator:
                 'title': title,
                 'content': content,
                 'url': url,
-                'html_content': html_content
+                'html_content': html_content,
+                'raw_content': content  # Keep original for processing
             }
             
         except Exception as e:
@@ -181,8 +272,22 @@ class BlogspotMigrator:
             filename = f"{post_date}-{slug}.md"
             filepath = self.posts_dir / filename
             
+            # Process images and internal links
+            content = post_data['raw_content']
+            
+            # First, process images from the full HTML (they might be outside the post body)
+            # but only to download them - we'll replace URLs in the content
+            full_html = post_data['html_content']
+            self.process_images_in_content(full_html, post_date)
+            
+            # Now process the extracted content for any images and replace URLs
+            content = self.process_images_in_content(content, post_date)
+            
+            # Update internal links
+            content = self.update_internal_links(content, post_date)
+            
             # Convert content to markdown
-            markdown_content = self.convert_to_markdown(post_data['content'])
+            markdown_content = self.convert_to_markdown(content)
             
             # Create Jekyll frontmatter
             frontmatter = f"""---
@@ -199,6 +304,10 @@ original_url: {post_data['url']}
             # Write file
             with open(filepath, 'w', encoding='utf-8') as f:
                 f.write(frontmatter)
+            
+            # Track redirect
+            jekyll_url = f"/blog/{date_obj.strftime('%Y/%m/%d')}/{slug}/"
+            self.redirects.append((post_data['url'], jekyll_url))
             
             print(f"Created: {filename}")
             return True
@@ -250,6 +359,32 @@ original_url: {post_data['url']}
             time.sleep(1)
         
         print(f"Migration complete: {successful} successful, {failed} failed")
+        
+        # Generate redirect file
+        self.generate_redirects()
+        
+        print(f"Downloaded {len(self.downloaded_images)} images")
+        print(f"Generated {len(self.redirects)} redirects")
+    
+    def generate_redirects(self):
+        """Generate Netlify redirects file"""
+        if not self.redirects:
+            return
+        
+        redirects_file = Path("_redirects")
+        
+        print("Generating redirects file...")
+        
+        with open(redirects_file, 'w') as f:
+            f.write("# Blogspot to Jekyll redirects\n")
+            f.write("# Generated by migrate_blogspot.py\n\n")
+            
+            for old_url, new_url in self.redirects:
+                # Convert full URL to path
+                old_path = old_url.replace('https://windleblo.blogspot.com', '')
+                f.write(f"{old_path} {new_url} 301\n")
+        
+        print(f"Created {redirects_file} with {len(self.redirects)} redirects")
 
 if __name__ == "__main__":
     migrator = BlogspotMigrator()
