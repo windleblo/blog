@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Heading East"
+date: 2012-05-15T12:00:00-07:00
+author: Jack
+categories: [uncategorized]
+original_url: https://windleblo.blogspot.com/2012/05/heading-east.html
+---
+
+Straining my neck, I catch a last glimpse of high plains through the window next to seat 22A on Icelandic flight 760 to Reykjavik. Son John occupies Seat 22C, already starting to doze. Seven sleepy hours later, leg one from DIA is complete. We touch down at 6:35 a.m. amid snow squalls thrown sideways by the stiff northerly breeze. "Welcome to Iceland," the cold wind seems to whistle as we descend the stairs for the brief walk across the tarmac to the arrivals terminal. At 66 degrees north, spring comes late to this sector. But our time in the far north is short, for a scant 90 minutes and two immigration stamps later we are in the air again, straining this time to view the moonlike Icelandic terrain receding below. The in-flight console on the seat back in front of me advises this is where the Apollo astronauts trained for their lunar landing more than 40 years ago.  More sleepy time and then a descent into Heathrow and a long layover. Whiling away the time, the indefatigable British spirit reveals itself. Cheery pleasantries between patron and barista, natural courtesies among travelers, the purposeful gait of an airline official, and the no-nonsense manner of an automatic-weapons-toting airport police patrol; these impressions and more accumulate into tangible, unmistakable British-ness. Perhaps it's my imagination, but everyone here seems so sure of themselves, with no apparent doubt about what they are doing or where they are going. Deja vu sweeps over me and I ask myself, "Wouldn't it be marvelous to have such a strong, sure sense of national identity?" And once again, a little voice answers, "Nah, it's better being a messy, mixed up American." Finally, the last leg of our journey is upon us. We board an Aerlingus flight to County Cork to end Windleblo's long winter wait.
