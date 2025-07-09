@@ -6,7 +6,16 @@ author: Jack
 categories: [uncategorized]
 ---
 
-![](http://windleblo.com/wp-content/uploads/2019/09/image1-2-1024x768.jpeg)Stunning glaciers above Petersburg
+<!-- IMAGE PLACEHOLDER
+Original URL: http://windleblo.com/wp-content/uploads/2019/09/image1-2-1024x768.jpeg
+Filename: image1-2-1024x768.jpeg
+Date path: 2019/09/image1-2-1024x768.jpeg
+Caption: Stunning glaciers above Petersburg
+Instructions: Replace this comment with actual image upload
+-->
+
+**[IMAGE MISSING: Stunning glaciers above Petersburg]**
+*Original filename: image1-2-1024x768.jpeg*
 
 I know, I know.
 
@@ -26,4 +35,13 @@ For now, I fly back to Denver to celebrate Emily and Jesse’s wedding.
 
 Here are some pics of Legs Five and Six:
 
-![](http://windleblo.com/wp-content/uploads/2019/09/image2-1024x576.png)Northern lights above Thomas Bay ![](http://windleblo.com/wp-content/uploads/2019/09/image11-1024x768.jpeg)Cascade Creek ![](http://windleblo.com/wp-content/uploads/2019/09/image10-e1568067682900-768x1024.jpeg)On the trail to Falls Lake ![](http://windleblo.com/wp-content/uploads/2019/09/image8-e1568067640593-768x1024.jpeg)Further along the trail to Falls Lake ![](http://windleblo.com/wp-content/uploads/2019/09/IMG_7595-e1568067765826-768x1024.jpg)The U.S. Forest Service provides rowboats to transit Falls Lake. Easier than cutting trail! ![](http://windleblo.com/wp-content/uploads/2019/09/IMG_7587-e1568067952152-768x1024.jpg)The waterfall at the head of Falls Lake
+<!-- IMAGE PLACEHOLDER
+Original URL: http://windleblo.com/wp-content/uploads/2019/09/image2-1024x576.png
+Filename: image2-1024x576.png
+Date path: 2019/09/image2-1024x576.png
+Caption: Northern lights above Thomas Bay ![](http://windleblo.com/wp-content/uploads/2019/09/image11-1024x768.jpeg)Cascade Creek ![](http://windleblo.com/wp-content/uploads/2019/09/image10-e1568067682900-768x1024.jpeg)On the trail to Falls Lake ![](http://windleblo.com/wp-content/uploads/2019/09/image8-e1568067640593-768x1024.jpeg)Further along the trail to Falls Lake ![](http://windleblo.com/wp-content/uploads/2019/09/IMG_7595-e1568067765826-768x1024.jpg)The U.S. Forest Service provides rowboats to transit Falls Lake. Easier than cutting trail! ![](http://windleblo.com/wp-content/uploads/2019/09/IMG_7587-e1568067952152-768x1024.jpg)The waterfall at the head of Falls Lake
+Instructions: Replace this comment with actual image upload
+-->
+
+**[IMAGE MISSING: Northern lights above Thomas Bay ![](http://windleblo.com/wp-content/uploads/2019/09/image11-1024x768.jpeg)Cascade Creek ![](http://windleblo.com/wp-content/uploads/2019/09/image10-e1568067682900-768x1024.jpeg)On the trail to Falls Lake ![](http://windleblo.com/wp-content/uploads/2019/09/image8-e1568067640593-768x1024.jpeg)Further along the trail to Falls Lake ![](http://windleblo.com/wp-content/uploads/2019/09/IMG_7595-e1568067765826-768x1024.jpg)The U.S. Forest Service provides rowboats to transit Falls Lake. Easier than cutting trail! ![](http://windleblo.com/wp-content/uploads/2019/09/IMG_7587-e1568067952152-768x1024.jpg)The waterfall at the head of Falls Lake]**
+*Original filename: image2-1024x576.png*

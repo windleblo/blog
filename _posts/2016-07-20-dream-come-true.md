@@ -14,7 +14,7 @@ And so it has been these past few days.
 
 [![Yarona & Windleblo](http://windleblo.com/wp-content/uploads/2016/07/IMG_2727-300x225.jpg)](/wp-content/uploads/2016/07/IMG_2727.jpg)
 
-Yarona & Windleblo
+## Yarona & Windleblo
 
 Last Friday, we made contact with Barrie and Kath Stott of the HR43, _Yarona_. We had said farewell to them at Gold River at the end of June before returning to Colorado. While we were away, they finished launching _Yarona_ and made their way to Halifax where we found them on the docks downtown. Since Friday, we have sailed about 50 nautical miles per day together along Nova Scotia’s East Shore, sharing truly fine anchorages, exquisite meals, and cheerful camaraderie. Our goal: to get through the St. Peters Canal and into Bras D’Or Lake. This afternoon, we transited the canal lock, the oldest in North America, and rose two feet from sea level to enter the lake.
 

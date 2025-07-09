@@ -6,9 +6,18 @@ author: Jack
 categories: [uncategorized]
 ---
 
-[![](http://windleblo.com/wp-content/uploads/2018/06/IMG_5898-300x225.jpg)](/wp-content/uploads/2018/06/IMG_5898.jpg)
+[<!-- IMAGE PLACEHOLDER
+Original URL: http://windleblo.com/wp-content/uploads/2018/06/IMG_5898-300x225.jpg
+Filename: IMG_5898-300x225.jpg
+Date path: 2018/06/IMG_5898-300x225.jpg
+Caption: ](/wp-content/uploads/2018/06/IMG_5898.jpg)
+Instructions: Replace this comment with actual image upload
+-->
 
-Launch Day!
+**[IMAGE MISSING: ](/wp-content/uploads/2018/06/IMG_5898.jpg)]**
+*Original filename: IMG_5898-300x225.jpg*
+
+## Launch Day!
 
 10 days. That’s how long it took to get the _Windleblo_ ready this year.
 

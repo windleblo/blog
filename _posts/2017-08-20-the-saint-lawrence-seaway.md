@@ -6,23 +6,50 @@ author: Jack
 categories: [uncategorized]
 ---
 
-[![](http://windleblo.com/wp-content/uploads/2017/08/IMG_4576-1024x326.jpg)](/wp-content/uploads/2017/08/IMG_4576.jpg)
+[<!-- IMAGE PLACEHOLDER
+Original URL: http://windleblo.com/wp-content/uploads/2017/08/IMG_4576-1024x326.jpg
+Filename: IMG_4576-1024x326.jpg
+Date path: 2017/08/IMG_4576-1024x326.jpg
+Caption: ](/wp-content/uploads/2017/08/IMG_4576.jpg)
+Instructions: Replace this comment with actual image upload
+-->
 
-View of Yacht Club de Montreal from Quai D’Horlage
+**[IMAGE MISSING: ](/wp-content/uploads/2017/08/IMG_4576.jpg)]**
+*Original filename: IMG_4576-1024x326.jpg*
+
+## View of Yacht Club de Montreal from Quai D’Horlage
 
 We are at the mouth of Lake Ontario in the Thousands Islands. I push the altitude button on my Casio Pathfinder wristwatch. 150 meters comes the readout. How did _Windleblo_ climb so high? The St. Lawrence Seaway!
 
-[![](http://windleblo.com/wp-content/uploads/2017/08/IMG_4584-e1503249573717-225x300.jpg)](/wp-content/uploads/2017/08/IMG_4584-e1503249573717.jpg)
+[<!-- IMAGE PLACEHOLDER
+Original URL: http://windleblo.com/wp-content/uploads/2017/08/IMG_4584-e1503249573717-225x300.jpg
+Filename: IMG_4584-e1503249573717-225x300.jpg
+Date path: 2017/08/IMG_4584-e1503249573717-225x300.jpg
+Caption: ](/wp-content/uploads/2017/08/IMG_4584-e1503249573717.jpg)
+Instructions: Replace this comment with actual image upload
+-->
 
-Lachine Canal lock
+**[IMAGE MISSING: ](/wp-content/uploads/2017/08/IMG_4584-e1503249573717.jpg)]**
+*Original filename: IMG_4584-e1503249573717-225x300.jpg*
+
+## Lachine Canal lock
 
 Since 1535, when Jacques Cartier was barred by the Lachine Rapids in Mount Royal (now Montreal) from proceeding up the St. Lawrence River, it became a dream to connect the Atlantic Ocean with the Great Lakes by building a way around the rapids and strong currents of the St. Lawrence River. The Lachine Canal, built in the early 19th century was a start, but that only opened the way west a bit. More was needed.
 
 In 1895, the first joint U.S.-Canada commission was established to study the feasibility of a seaway. In 1909, an International Joint Committee was formed to investigate. In 1932, Canada and the U.S. signed the Great Lakes-St. Lawrence Deep Waterway Treaty, and in 1941, they signed the Great Lakes-St. Lawrence Basin Agreement. In 1949, another commission studied the idea, but not a single spade of dirt was turned. All the while, powerful U.S. railroad and industrial lobbying interests successfully foiled progress.
 
-[![](http://windleblo.com/wp-content/uploads/2017/08/IMG_4732-e1503250191620-225x300.jpg)](/wp-content/uploads/2017/08/IMG_4732-e1503250191620.jpg)
+[<!-- IMAGE PLACEHOLDER
+Original URL: http://windleblo.com/wp-content/uploads/2017/08/IMG_4732-e1503250191620-225x300.jpg
+Filename: IMG_4732-e1503250191620-225x300.jpg
+Date path: 2017/08/IMG_4732-e1503250191620-225x300.jpg
+Caption: ](/wp-content/uploads/2017/08/IMG_4732-e1503250191620.jpg)
+Instructions: Replace this comment with actual image upload
+-->
 
-Inside St. Catherines lock
+**[IMAGE MISSING: ](/wp-content/uploads/2017/08/IMG_4732-e1503250191620.jpg)]**
+*Original filename: IMG_4732-e1503250191620-225x300.jpg*
+
+## Inside St. Catherines lock
 
 In 1951, Canada finally got tired of waiting. It announced it would build a seaway alone. Canada passed the St. Lawrence Seaway Authority Act and the International Rapids Power Development Act to begin work west from Montreal. The ploy worked. The U.S. joined Canada in power works in the International Rapids section of the river, the first joint work on the Seaway.
 
@@ -30,9 +57,18 @@ In 1954, the United States joined Canada in building the Seaway with the passage
 
 The Seaway system is connected by six canals with a total length of about 100 km (60 miles). The 19 locks are filled and emptied by gravity. Each lock is 233.5 meters long (766 feet), 24.4 meters wide (80 feet), and 9.1 meters deep (30 feet) at the entrance sill. Ships are raised 180 meters above sea level. (This total includes the rise up to Lake Superior, so my Casio can’t be off by too much.)
 
-[![](http://windleblo.com/wp-content/uploads/2017/08/IMG_4759-300x225.jpg)](/wp-content/uploads/2017/08/IMG_4759.jpg)
+[<!-- IMAGE PLACEHOLDER
+Original URL: http://windleblo.com/wp-content/uploads/2017/08/IMG_4759-300x225.jpg
+Filename: IMG_4759-300x225.jpg
+Date path: 2017/08/IMG_4759-300x225.jpg
+Caption: ](/wp-content/uploads/2017/08/IMG_4759.jpg)
+Instructions: Replace this comment with actual image upload
+-->
 
-Watching a laker exiting Eisenhower lock
+**[IMAGE MISSING: ](/wp-content/uploads/2017/08/IMG_4759.jpg)]**
+*Original filename: IMG_4759-300x225.jpg*
+
+## Watching a laker exiting Eisenhower lock
 
 I asked Jocelyn what impressed her most about the trip upriver from Montreal.
 
@@ -50,25 +86,52 @@ It didn’t take long for us to learn our first lesson…patience! We reached th
 
 Which post to follow? The one that says pleasure craft are worked through all day, commercial traffic permitting, or the one that guarantees transit at a scheduled time? We optimistically opted to follow the first. Before departure, we had checked both online at marinetraffic.com and using our onboard Automated Identification System (AIS) and saw no commercial traffic competing to use the St. Lambert lock anytime that morning.
 
-[![](http://windleblo.com/wp-content/uploads/2017/08/IMG_4587-300x225.jpg)](/wp-content/uploads/2017/08/IMG_4587.jpg)
+[<!-- IMAGE PLACEHOLDER
+Original URL: http://windleblo.com/wp-content/uploads/2017/08/IMG_4587-300x225.jpg
+Filename: IMG_4587-300x225.jpg
+Date path: 2017/08/IMG_4587-300x225.jpg
+Caption: ](/wp-content/uploads/2017/08/IMG_4587.jpg)
+Instructions: Replace this comment with actual image upload
+-->
 
-Odyssey VIII skipper
+**[IMAGE MISSING: ](/wp-content/uploads/2017/08/IMG_4587.jpg)]**
+*Original filename: IMG_4587-300x225.jpg*
+
+## Odyssey VIII skipper
 
 Each lock has a special waiting dock for pleasure craft. The Seaway’s “Pleasure Craft Guide” instructs arriving boats to “call the lock control using the dock telephone and you will receive your instructions.” Picking up the phone, I announced our arrival, hoping to hear that the lock doors would open for us right away. Instead, I was told to stand by until 9:45 a.m. when instructions would boom over the dock’s public address system. We started cooking breakfast as the drizzle continued.
 
 Over the ensuing hour and a half, three things happened. We filled our bellies, the sun came out, and several other boats joined us at the waiting dock.
 
-[![](http://windleblo.com/wp-content/uploads/2017/08/IMG_4599-300x225.jpg)](/wp-content/uploads/2017/08/IMG_4599.jpg)
+[<!-- IMAGE PLACEHOLDER
+Original URL: http://windleblo.com/wp-content/uploads/2017/08/IMG_4599-300x225.jpg
+Filename: IMG_4599-300x225.jpg
+Date path: 2017/08/IMG_4599-300x225.jpg
+Caption: ](/wp-content/uploads/2017/08/IMG_4599.jpg)
+Instructions: Replace this comment with actual image upload
+-->
 
-Oddyssey VIII crew at the ready
+**[IMAGE MISSING: ](/wp-content/uploads/2017/08/IMG_4599.jpg)]**
+*Original filename: IMG_4599-300x225.jpg*
+
+## Oddyssey VIII crew at the ready
 
 One of them was the _Odyssey VIII_ , a Beneteau 38 skippered by a Quebecois named Norman. His daughter, Emily, and her best friend, Cynthia, were joining him to deliver the boat to the Thousand Islands where Norman and his partner, Suzanne, would spend three and a half weeks on vacation. Over the next four hours, we would get acquainted as we worked our way along the South Shore Canal.
 
 Norman had been through the locks many times before. He assuaged our concerns about roiling waters and chafing fenders. _Odyssey VIII_ and _Windleblo_ would raft up in the two locks. As the larger boat, _Windleblo_ would hug the lock wall. Cynthia and Emily would help fend us off.
 
-[![](http://windleblo.com/wp-content/uploads/2017/08/IMG_4652-e1503250048637-225x300.jpg)](/wp-content/uploads/2017/08/IMG_4652-e1503250048637.jpg)
+[<!-- IMAGE PLACEHOLDER
+Original URL: http://windleblo.com/wp-content/uploads/2017/08/IMG_4652-e1503250048637-225x300.jpg
+Filename: IMG_4652-e1503250048637-225x300.jpg
+Date path: 2017/08/IMG_4652-e1503250048637-225x300.jpg
+Caption: ](/wp-content/uploads/2017/08/IMG_4652-e1503250048637.jpg)
+Instructions: Replace this comment with actual image upload
+-->
 
-Lock doors closing
+**[IMAGE MISSING: ](/wp-content/uploads/2017/08/IMG_4652-e1503250048637.jpg)]**
+*Original filename: IMG_4652-e1503250048637-225x300.jpg*
+
+## Lock doors closing
 
 Jocelyn quickly bonded with the new temporary crew. Both were in their late twenties. Cynthia was a Human Geography PhD student at the University of Toronto but living in Montreal. She was about to embark on an extended research trip to India and Singapore investigating the fate of precious metals recycled from electronics. Apparently, no one really knows how this market works. Discarded electronics end up in India where precious metals are extracted by people working in hazardous conditions. The metals end up in places like Singapore where they work their way back into circulation. Her dissertation will shed light on the deplorable circumstances of the Indian workers in hopes of prompting industry to accept responsibility for the full costsof their products. Emily works for an organization that teaches indigenous people in northern Canada.
 
@@ -80,15 +143,33 @@ Before we realized it, we were rising. A slight current pushed us forward, but n
 
 We paced _Odyssey VIII_ the seven nautical miles between the St. Lambert and St. Catherines locks and then repeated the process, this time waiting only 45 minutes for the lock gates to open, allowing us
 
-[![](http://windleblo.com/wp-content/uploads/2017/08/IMG_4610-300x225.jpg)](/wp-content/uploads/2017/08/IMG_4610.jpg)
+[<!-- IMAGE PLACEHOLDER
+Original URL: http://windleblo.com/wp-content/uploads/2017/08/IMG_4610-300x225.jpg
+Filename: IMG_4610-300x225.jpg
+Date path: 2017/08/IMG_4610-300x225.jpg
+Caption: ](/wp-content/uploads/2017/08/IMG_4610.jpg)
+Instructions: Replace this comment with actual image upload
+-->
 
-Paying the lock toll
+**[IMAGE MISSING: ](/wp-content/uploads/2017/08/IMG_4610.jpg)]**
+*Original filename: IMG_4610-300x225.jpg*
+
+## Paying the lock toll
 
 in. Rafting again with _Odyssey VIII_ , all went smoothly. We left the lock intending to keep pace with _Odyssey VIII_ through the Beauharnois locks 17 nautical miles upriver, but when we got there the lock gates were opening and _Odyssey VIII_ was 30 minutes behind us. They missed the opening and would have to wait for the next chance.
 
 The Beauharnois locks are slightly different. Still Canadian locks, the lock masters drop lines to you as you enter, but this time you hug the starboard wall. There are two locks in rapid succession, with only a half-mile canal separating them. The lock walls are a lot taller when the locks are empty, evidence of an even greater lift when full – 14 meters! Another difference was that the first Beauharnois
 
-[![](http://windleblo.com/wp-content/uploads/2017/08/IMG_4659-300x225.jpg)](/wp-content/uploads/2017/08/IMG_4659.jpg)
+[<!-- IMAGE PLACEHOLDER
+Original URL: http://windleblo.com/wp-content/uploads/2017/08/IMG_4659-300x225.jpg
+Filename: IMG_4659-300x225.jpg
+Date path: 2017/08/IMG_4659-300x225.jpg
+Caption: ](/wp-content/uploads/2017/08/IMG_4659.jpg)
+Instructions: Replace this comment with actual image upload
+-->
+
+**[IMAGE MISSING: ](/wp-content/uploads/2017/08/IMG_4659.jpg)]**
+*Original filename: IMG_4659-300x225.jpg*
 
 Train rumbling by.
 
@@ -98,9 +179,18 @@ It was just the two of us now, Jocelyn on the bow and me at the stern, each tend
 
 We made it as far as the Saint Louis lift bridge and pulled over for the night, anchoring in eight meters of water along the left bank of the canal. The current was still quite
 
-[![](http://windleblo.com/wp-content/uploads/2017/08/IMG_4656-e1503250111865-225x300.jpg)](/wp-content/uploads/2017/08/IMG_4656-e1503250111865.jpg)
+[<!-- IMAGE PLACEHOLDER
+Original URL: http://windleblo.com/wp-content/uploads/2017/08/IMG_4656-e1503250111865-225x300.jpg
+Filename: IMG_4656-e1503250111865-225x300.jpg
+Date path: 2017/08/IMG_4656-e1503250111865-225x300.jpg
+Caption: ](/wp-content/uploads/2017/08/IMG_4656-e1503250111865.jpg)
+Instructions: Replace this comment with actual image upload
+-->
 
-Looking up at tall lock walls
+**[IMAGE MISSING: ](/wp-content/uploads/2017/08/IMG_4656-e1503250111865.jpg)]**
+*Original filename: IMG_4656-e1503250111865-225x300.jpg*
+
+## Looking up at tall lock walls
 
 noticeable as 85 percent of the St. Lawrence River water is diverted through this canal to flow through the Beauharnois hydroelectric plant adjacent to the lower lock.
 
@@ -110,9 +200,18 @@ The next day, we navigated through two lift bridges across the canal, the Saint 
 
 Not so lucky at the Valleyfield Bridge five nautical miles later, we
 
-[![](http://windleblo.com/wp-content/uploads/2017/08/IMG_4670-300x225.jpg)](/wp-content/uploads/2017/08/IMG_4670.jpg)
+[<!-- IMAGE PLACEHOLDER
+Original URL: http://windleblo.com/wp-content/uploads/2017/08/IMG_4670-300x225.jpg
+Filename: IMG_4670-300x225.jpg
+Date path: 2017/08/IMG_4670-300x225.jpg
+Caption: ](/wp-content/uploads/2017/08/IMG_4670.jpg)
+Instructions: Replace this comment with actual image upload
+-->
 
-Windleblo in Vieux Canal berth
+**[IMAGE MISSING: ](/wp-content/uploads/2017/08/IMG_4670.jpg)]**
+*Original filename: IMG_4670-300x225.jpg*
+
+## Windleblo in Vieux Canal berth
 
 were informed that we would have to wait 45 minutes for commercial traffic. We pulled over and turned off the engine, letting the current slowly push us back downstream. Finally, the bridge lifted and we advanced.
 
@@ -120,9 +219,18 @@ Our short day ended with a tie up at a dock in the Vieux Canal (old canal) of Sa
 
 Just as in the rest of Quebec, the Route Verte covers Valleyfield with excellent bike routes, lanes, and paths.
 
-[![](http://windleblo.com/wp-content/uploads/2017/08/IMG_4683-300x225.jpg)](/wp-content/uploads/2017/08/IMG_4683.jpg)
+[<!-- IMAGE PLACEHOLDER
+Original URL: http://windleblo.com/wp-content/uploads/2017/08/IMG_4683-300x225.jpg
+Filename: IMG_4683-300x225.jpg
+Date path: 2017/08/IMG_4683-300x225.jpg
+Caption: ](/wp-content/uploads/2017/08/IMG_4683.jpg)
+Instructions: Replace this comment with actual image upload
+-->
 
-Laker transiting Valleyfield Bridge with sailboat nearby
+**[IMAGE MISSING: ](/wp-content/uploads/2017/08/IMG_4683.jpg)]**
+*Original filename: IMG_4683-300x225.jpg*
+
+## Laker transiting Valleyfield Bridge with sailboat nearby
 
 Finding the park-like route to the canal, I cycled back toward the Valleyfield Bridge to watch from the shore as a “big boy” went under headed upstream. As luck would have it, a sailing vessel, probably about our size, was transiting downriver at the same time. Side-by-side, one could see the relative size difference of the two.
 
@@ -136,33 +244,69 @@ Calling these bodies of water lakes is almost a misrepresentation. Studying the 
 
 We ended the day at a delightful anchorage right in the middle of a small braid in the channel near the mouth of the lake adjacent to an island called Ile Chatelain. This would be our last night in Quebec.
 
-[![](http://windleblo.com/wp-content/uploads/2017/08/IMG_4743-300x225.jpg)](/wp-content/uploads/2017/08/IMG_4743.jpg)
+[<!-- IMAGE PLACEHOLDER
+Original URL: http://windleblo.com/wp-content/uploads/2017/08/IMG_4743-300x225.jpg
+Filename: IMG_4743-300x225.jpg
+Date path: 2017/08/IMG_4743-300x225.jpg
+Caption: ](/wp-content/uploads/2017/08/IMG_4743.jpg)
+Instructions: Replace this comment with actual image upload
+-->
 
-Laker inside Eisenhower lock
+**[IMAGE MISSING: ](/wp-content/uploads/2017/08/IMG_4743.jpg)]**
+*Original filename: IMG_4743-300x225.jpg*
+
+## Laker inside Eisenhower lock
 
 Bright and early the next day, we set off under cloudy skies. The deck was freshly rinsed with overnight rain. The channel gathered together now, split only by Cornwall Island, and a strong current ran on both sides of the island up to three knots. Our progress under the international Cornwall Bridge was frustratingly slow. Eventually, we made it to the entrance to the Snell lock, the first American lock.
 
 Approaching the lock, we found the pleasure craft dock, tied up, and called the lockmaster from the requisite dedicated dockside phone. He instructed us to head directly into the lock as soon as the ship that was now exiting it was clear. He wasn’t sure we would be able to
 
-[![](http://windleblo.com/wp-content/uploads/2017/08/IMG_4729-300x225.jpg)](/wp-content/uploads/2017/08/IMG_4729.jpg)
+[<!-- IMAGE PLACEHOLDER
+Original URL: http://windleblo.com/wp-content/uploads/2017/08/IMG_4729-300x225.jpg
+Filename: IMG_4729-300x225.jpg
+Date path: 2017/08/IMG_4729-300x225.jpg
+Caption: ](/wp-content/uploads/2017/08/IMG_4729.jpg)
+Instructions: Replace this comment with actual image upload
+-->
 
-Laker exiting Eisenhower lock
+**[IMAGE MISSING: ](/wp-content/uploads/2017/08/IMG_4729.jpg)]**
+*Original filename: IMG_4729-300x225.jpg*
+
+## Laker exiting Eisenhower lock
 
 proceed directly through the next American lock, however, because several other ships were lined up to get through heading down the river.
 
 The first thing you notice about the American locks is their size. They are huge! The second thing you notice is that unlike in the Canadian locks the guys at the top of the wall are all wearing hard hats. I guess it’s “safety first” in the U.S. Instead of dropping lines down to us, we were instructed to use our own dock line to lasso a “floating bollard” recessed into the side of the lock wall. All alone in the huge lock, we motored to the front of the lock and took bollard number one.
 
-[![](http://windleblo.com/wp-content/uploads/2017/08/IMG_4776-300x225.jpg)](/wp-content/uploads/2017/08/IMG_4776.jpg)
+[<!-- IMAGE PLACEHOLDER
+Original URL: http://windleblo.com/wp-content/uploads/2017/08/IMG_4776-300x225.jpg
+Filename: IMG_4776-300x225.jpg
+Date path: 2017/08/IMG_4776-300x225.jpg
+Caption: ](/wp-content/uploads/2017/08/IMG_4776.jpg)
+Instructions: Replace this comment with actual image upload
+-->
 
-Floating bollard inside American lock
+**[IMAGE MISSING: ](/wp-content/uploads/2017/08/IMG_4776.jpg)]**
+*Original filename: IMG_4776-300x225.jpg*
+
+## Floating bollard inside American lock
 
 It took only seven minutes for us to lock up a total of 14 meters (46 feet)! In that time, more than 90 million liters (nearly 24,000,000 gallons) of water had flooded into the lock. We noticed no turbulence as the lock was filling, leading us to wonder just how the water gets in there. Clearly, the lock is a true engineering marvel. At the top, I handed the lockmaster my pay.gov receipt for $60CAD and we were good to go.
 
 BTW, even though we were in U.S. territory, an arrangement between the countries allows boats to transit the locks without clearing Customs and Immigration. This is because there is really no way to leave your vessel, so therefore technically boaters are not entering or leaving either country.
 
-[![](http://windleblo.com/wp-content/uploads/2017/08/IMG_4731-300x225.jpg)](/wp-content/uploads/2017/08/IMG_4731.jpg)
+[<!-- IMAGE PLACEHOLDER
+Original URL: http://windleblo.com/wp-content/uploads/2017/08/IMG_4731-300x225.jpg
+Filename: IMG_4731-300x225.jpg
+Date path: 2017/08/IMG_4731-300x225.jpg
+Caption: ](/wp-content/uploads/2017/08/IMG_4731.jpg)
+Instructions: Replace this comment with actual image upload
+-->
 
-Water rising inside Snell lock
+**[IMAGE MISSING: ](/wp-content/uploads/2017/08/IMG_4731.jpg)]**
+*Original filename: IMG_4731-300x225.jpg*
+
+## Water rising inside Snell lock
 
 A three nautical mile canal connects the two locks. Once we arrived at the Eisenhower lock, we hailed the lock master on VHF Channel 12 as instructed. This time, he told us to take a mooring ball near the lock entrance where we would need to stand by until he could work us through the lock.
 

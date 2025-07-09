@@ -6,9 +6,18 @@ author: Jack
 categories: [uncategorized]
 ---
 
-[![](http://windleblo.com/wp-content/uploads/2017/06/IMG_3776-e1498573016285-225x300.jpg)](/wp-content/uploads/2017/06/IMG_3776-e1498573016285.jpg)
+[<!-- IMAGE PLACEHOLDER
+Original URL: http://windleblo.com/wp-content/uploads/2017/06/IMG_3776-e1498573016285-225x300.jpg
+Filename: IMG_3776-e1498573016285-225x300.jpg
+Date path: 2017/06/IMG_3776-e1498573016285-225x300.jpg
+Caption: ](/wp-content/uploads/2017/06/IMG_3776-e1498573016285.jpg)
+Instructions: Replace this comment with actual image upload
+-->
 
-Our home in Charlottetown
+**[IMAGE MISSING: ](/wp-content/uploads/2017/06/IMG_3776-e1498573016285.jpg)]**
+*Original filename: IMG_3776-e1498573016285-225x300.jpg*
+
+## Our home in Charlottetown
 
 Well, if it’s possible, I think we’ve found the nicest Canadians yet.
 
@@ -20,9 +29,18 @@ It started on the passage from Pictou when we noticed our mainsail had ripped. I
 
 Disheartened, we furled it away and resolved to motor across the Northumberland Strait and into Charlottetown without any help from the wind. In fact, it fought us again, throwing wind and waves in our face as yet another reminder of why we should be a downwind boat. Jocelyn was happy to finally set the anchor, her contribution to the start of the season complete. Now we could relax and play tourist in a new town.
 
-[![](http://windleblo.com/wp-content/uploads/2017/06/IMG_3777-300x225.jpg)](/wp-content/uploads/2017/06/IMG_3777.jpg)
+[<!-- IMAGE PLACEHOLDER
+Original URL: http://windleblo.com/wp-content/uploads/2017/06/IMG_3777-300x225.jpg
+Filename: IMG_3777-300x225.jpg
+Date path: 2017/06/IMG_3777-300x225.jpg
+Caption: ](/wp-content/uploads/2017/06/IMG_3777.jpg)
+Instructions: Replace this comment with actual image upload
+-->
 
-Ron White
+**[IMAGE MISSING: ](/wp-content/uploads/2017/06/IMG_3777.jpg)]**
+*Original filename: IMG_3777-300x225.jpg*
+
+## Ron White
 
 Having been in this situation before, I was primed to have trouble finding a way to get the sail repaired – a runaround, perhaps, or difficulty even getting help finding the right person to call.
 
@@ -36,7 +54,16 @@ Over the next few days, we got to know Ron pretty well.
 
 He grew up in Plymouth, Massachusetts, which made him somewhat of a kindred spirit, what with Plymouth only 15 miles down the coast from where I grew up in Cohasset.
 
-[![](http://windleblo.com/wp-content/uploads/2017/06/IMG_3769-e1498573080188-225x300.jpg)](/wp-content/uploads/2017/06/IMG_3769-e1498573080188.jpg)
+[<!-- IMAGE PLACEHOLDER
+Original URL: http://windleblo.com/wp-content/uploads/2017/06/IMG_3769-e1498573080188-225x300.jpg
+Filename: IMG_3769-e1498573080188-225x300.jpg
+Date path: 2017/06/IMG_3769-e1498573080188-225x300.jpg
+Caption: ](/wp-content/uploads/2017/06/IMG_3769-e1498573080188.jpg)
+Instructions: Replace this comment with actual image upload
+-->
+
+**[IMAGE MISSING: ](/wp-content/uploads/2017/06/IMG_3769-e1498573080188.jpg)]**
+*Original filename: IMG_3769-e1498573080188-225x300.jpg*
 
 PEI countryside.
 
@@ -56,7 +83,16 @@ CFA stands for “Come From Away,” which, once you’ve been here a while you 
 
 Well, Ron is not a CFA, but whenever someone points that out, he retorts, “That’s right. I’m not a CFA. I’m an HBC. Here By Choice.” That usually shuts them up, he says.
 
-[![](http://windleblo.com/wp-content/uploads/2017/06/IMG_3784-300x225.jpg)](/wp-content/uploads/2017/06/IMG_3784.jpg)
+[<!-- IMAGE PLACEHOLDER
+Original URL: http://windleblo.com/wp-content/uploads/2017/06/IMG_3784-300x225.jpg
+Filename: IMG_3784-300x225.jpg
+Date path: 2017/06/IMG_3784-300x225.jpg
+Caption: ](/wp-content/uploads/2017/06/IMG_3784.jpg)
+Instructions: Replace this comment with actual image upload
+-->
+
+**[IMAGE MISSING: ](/wp-content/uploads/2017/06/IMG_3784.jpg)]**
+*Original filename: IMG_3784-300x225.jpg*
 
 Brackley Beach dunes, on PEI’s north shore.
 
@@ -70,7 +106,16 @@ Now, as Canada celebrates its 150th anniversary, the country prides itself on it
 
 The week here in Charlottetown went by too fast, mostly dominated by relaxed days ashore exploring the town, biking the countryside, and taking in the sights. We celebrated our 32nd anniversary with a nice dinner out and taking in a play. Guess which one. Anne of Green Gables, of course!
 
-[![](http://windleblo.com/wp-content/uploads/2017/06/IMG_3786-300x225.jpg)](/wp-content/uploads/2017/06/IMG_3786.jpg)
+[<!-- IMAGE PLACEHOLDER
+Original URL: http://windleblo.com/wp-content/uploads/2017/06/IMG_3786-300x225.jpg
+Filename: IMG_3786-300x225.jpg
+Date path: 2017/06/IMG_3786-300x225.jpg
+Caption: ](/wp-content/uploads/2017/06/IMG_3786.jpg)
+Instructions: Replace this comment with actual image upload
+-->
+
+**[IMAGE MISSING: ](/wp-content/uploads/2017/06/IMG_3786.jpg)]**
+*Original filename: IMG_3786-300x225.jpg*
 
 New crew.
 

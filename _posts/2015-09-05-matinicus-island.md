@@ -8,9 +8,9 @@ categories: [uncategorized]
 
 [![South Beach, Matinicus Island](http://windleblo.com/wp-content/uploads/2015/09/IMG_2078-1024x768.jpg)](/wp-content/uploads/2015/09/IMG_2078.jpg)
 
-South Beach, Matinicus Island
+## South Beach, Matinicus Island
 
-Shades of Finnoya
+## Shades of Finnoya
 
 That’s what Matinicus felt like as our time there began to ebb.
 
@@ -26,7 +26,7 @@ We boiled up the bounty and stuffed ourselves full of lobster and crab with enou
 
 [![Mr. Ames' largesse](http://windleblo.com/wp-content/uploads/2015/09/IMG_2082-e1441484036940-768x1024.jpg)](/wp-content/uploads/2015/09/IMG_2082-e1441484036940.jpg)
 
-Mr. Ames’ largesse
+## Mr. Ames’ largesse
 
 The largesse was offered by Mr. Ames, lobsterman and father of Josh Ames, the 25-year-old tender to the 12 or so visitor moorings clearly marked with orange pick up sticks in the crowded harbor. We were the only visiting yacht among dozens of lobster boats busily coming and going throughout our 36 hour term in the harbor.
 
@@ -38,13 +38,13 @@ Our pilot book informs us, “In ‘ _Matinicus Isle: Its Story and Its People (
 
 [![Ebenezer Hall the younger's gravestone, Matinicus cemetery](http://windleblo.com/wp-content/uploads/2015/09/IMG_2074-e1441483976552-768x1024.jpg)](/wp-content/uploads/2015/09/IMG_2074-e1441483976552.jpg)
 
-Ebenezer Hall the younger’s gravestone, Matinicus cemetery
+## Ebenezer Hall the younger’s gravestone, Matinicus cemetery
 
 Judging from our observations, the principal occupation of long-time islanders is lobstering. Our evening entertainment once we took a mooring ball late Monday and again after returning from our explorations on Tuesday was watching the many lobster boats roar in and out of the harbor, seemingly never at rest as they left with fresh bait and returned with boatloads of lobsters.
 
 [![One of David Sears' art works](http://windleblo.com/wp-content/uploads/2015/09/IMG_2083-1024x768.jpg)](/wp-content/uploads/2015/09/IMG_2083.jpg)
 
-One of David Sears’ art works
+## One of David Sears’ art works
 
 We didn’t see many people on our walkabout, but one we spoke with was an artist named David Sears who was attending his gallery in an out building adjacent to his summer home on the island’s main north-south road. His art was exquisite and he boasted of wildlife painting commissions up and down the Eastern Seaboard. Chatting, he advised that contrary to popular belief, islanders were quite friendly. (This was quite reassuring as we had read that in the past some would take pot shots to ward off passing yachts.) Regarding lobstermen, he claimed they were doing quite well this year. “A boat owner can make twenty grand a month and the sternmen make $500 to $700 per day each,” he exclaimed.
 
@@ -52,4 +52,4 @@ Such abundance! Little wonder Mr. Ames could be so generous with his catch. Or p
 
 [![Matinicus harbor](http://windleblo.com/wp-content/uploads/2015/09/IMG_2080-1024x768.jpg)](/wp-content/uploads/2015/09/IMG_2080.jpg)
 
-Matinicus harbor
+## Matinicus harbor

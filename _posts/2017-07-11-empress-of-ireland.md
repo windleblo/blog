@@ -8,9 +8,18 @@ categories: [uncategorized]
 
 __We first became aware of the tragedy of the _Empress of Ireland_ last year at the Pier 21 museum in Halifax where several of her artifacts are on display. There, we learned that her sinking resulted in the greatest loss of life of any Canadian maritime accident in peacetime. Now, working our way up the St. Lawrence, we had occasion to study her fate further.
 
-[![](http://windleblo.com/wp-content/uploads/2017/07/IMG_3969-e1499734625693-225x300.jpg)](/wp-content/uploads/2017/07/IMG_3969-e1499734625693.jpg)
+[<!-- IMAGE PLACEHOLDER
+Original URL: http://windleblo.com/wp-content/uploads/2017/07/IMG_3969-e1499734625693-225x300.jpg
+Filename: IMG_3969-e1499734625693-225x300.jpg
+Date path: 2017/07/IMG_3969-e1499734625693-225x300.jpg
+Caption: ](/wp-content/uploads/2017/07/IMG_3969-e1499734625693.jpg)
+Instructions: Replace this comment with actual image upload
+-->
 
-Fog Horn!
+**[IMAGE MISSING: ](/wp-content/uploads/2017/07/IMG_3969-e1499734625693.jpg)]**
+*Original filename: IMG_3969-e1499734625693-225x300.jpg*
+
+## Fog Horn!
 
 Between Matane and Rimouski, we detoured three nautical miles toward the center of the river to find an aid to navigation “Eire” marking the spot where the _Empress_ went down. Fittingly, we were enveloped in fog as we steamed toward the mark.
 
@@ -22,9 +31,18 @@ Until now, the current on the St. Lawrence has been always against us, at times 
 
 There’s a thing in this business that’s priceless. It’s called “local knowledge.” I needed it now to help me interpret the tidal atlases and tables I had bought on the internet in Denver to guide us up this stretch of the St. Lawrence.
 
-[![](http://windleblo.com/wp-content/uploads/2017/07/IMG_3970-300x225.jpg)](/wp-content/uploads/2017/07/IMG_3970.jpg)
+[<!-- IMAGE PLACEHOLDER
+Original URL: http://windleblo.com/wp-content/uploads/2017/07/IMG_3970-300x225.jpg
+Filename: IMG_3970-300x225.jpg
+Date path: 2017/07/IMG_3970-300x225.jpg
+Caption: ](/wp-content/uploads/2017/07/IMG_3970.jpg)
+Instructions: Replace this comment with actual image upload
+-->
 
-Exactly where the Empress of Ireland went down in 1914
+**[IMAGE MISSING: ](/wp-content/uploads/2017/07/IMG_3970.jpg)]**
+*Original filename: IMG_3970-300x225.jpg*
+
+## Exactly where the Empress of Ireland went down in 1914
 
 So the first order of business in the morning, before we could head out for the museum, was to get local knowledge. Not one to be shy, I approached a friendly neighbor on a nice looking yacht a few slips down from _Windleblo_ and asked him if he had made the passage to Tadoussac, our next port of call 30 nautical miles across the river to the north. As we talked, he introduced himself as Claude and dug out a tidal atlas from his hold. It was the very same one I had brought from Denver! He called it the bible and was happy to give me a quick lesson on how to use it. My confidence in planning our onward passage soared.
 
@@ -34,9 +52,18 @@ At the museum, we learned all about the tragedy, first viewing a stimulating int
 
 From Wikipedia: “ _Empress of Ireland_ departed [Quebec City](https://web.archive.org/web/20230522033453/https://en.wikipedia.org/wiki/Quebec_City) for Liverpool at 16:30 local time ([EST](https://web.archive.org/web/20230522033453/https://en.wikipedia.org/wiki/Eastern_Time_Zone_\(North_America\)#Canada)) on 28 May 1914 with 1,477 passengers and crew. [Henry George Kendall](https://web.archive.org/web/20230522033453/https://en.wikipedia.org/wiki/Henry_George_Kendall) had just been promoted to her captain at the beginning of the month, and it was his first trip down the [St. Lawrence River](https://web.archive.org/web/20230522033453/https://en.wikipedia.org/wiki/St._Lawrence_River) in command of her.
 
-[![](http://windleblo.com/wp-content/uploads/2017/07/IMG_3972-e1499734709279-225x300.jpg)](/wp-content/uploads/2017/07/IMG_3972-e1499734709279.jpg)
+[<!-- IMAGE PLACEHOLDER
+Original URL: http://windleblo.com/wp-content/uploads/2017/07/IMG_3972-e1499734709279-225x300.jpg
+Filename: IMG_3972-e1499734709279-225x300.jpg
+Date path: 2017/07/IMG_3972-e1499734709279-225x300.jpg
+Caption: ](/wp-content/uploads/2017/07/IMG_3972-e1499734709279.jpg)
+Instructions: Replace this comment with actual image upload
+-->
 
-Empress of Ireland fog bell
+**[IMAGE MISSING: ](/wp-content/uploads/2017/07/IMG_3972-e1499734709279.jpg)]**
+*Original filename: IMG_3972-e1499734709279-225x300.jpg*
+
+## Empress of Ireland fog bell
 
 “The ship reached [Pointe-au-Père, Quebec](https://web.archive.org/web/20230522033453/https://en.wikipedia.org/wiki/Pointe-au-P%C3%A8re,_Quebec) (or Father Point) near the town of [Rimouski](https://web.archive.org/web/20230522033453/https://en.wikipedia.org/wiki/Rimouski) in the early hours of 29 May 1914, where the [pilot](https://web.archive.org/web/20230522033453/https://en.wikipedia.org/wiki/Maritime_pilot) disembarked.  _Empress of Ireland_ resumed a normal outward bound course of about N76E, and soon sighted the masthead lights of [ _Storstad_](https://web.archive.org/web/20230522033453/https://en.wikipedia.org/wiki/SS_Storstad), a [Norwegian](https://web.archive.org/web/20230522033453/https://en.wikipedia.org/wiki/Norway) collier, on her starboard bow at a distance of several miles. Likewise,  _Storstad_ , which was abreast of [Métis Point](https://web.archive.org/web/20230522033453/https://en.wikipedia.org/wiki/M%C3%A9tis_Point) and on a course W. by S., sighted  _Empress of Ireland_ ‘s masthead lights. The first sightings were made in clear weather conditions, but fog soon enveloped the ships. The ships resorted to repeated use of their fog whistles. At about 02:00 local time  _Storstad_ crashed into  _Empress of Ireland_ ‘s starboard side at around midships.  _Storstad_ remained afloat, but  _Empress of Ireland_ was severely damaged. A gaping hole in her side caused the lower decks to flood at an alarming rate to the crew.
 

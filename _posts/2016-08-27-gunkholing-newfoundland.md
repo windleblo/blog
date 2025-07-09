@@ -12,7 +12,7 @@ But before this pattern, we experienced Ramea Day and the Rock Island Music Fest
 
 [![Ramea](http://windleblo.com/wp-content/uploads/2016/08/IMG_2896-300x225.jpg)](/wp-content/uploads/2016/08/IMG_2896.jpg)
 
-Ramea
+## Ramea
 
 Leaving Grand Bruit, we mostly motor-sailed 30 nautical miles through patchy fog to the Ramea Islands, a small archipelago about five nautical miles off the coast. There is only one place to tie up in Ramea, Ship Cove, ringed by the small town. Two other yachts occupied available spots on the public wharf, so we rafted up to a surprisingly clean fishing boat that didn’t look like it was going anywhere any time soon.
 
@@ -30,7 +30,7 @@ Eavesdropping a bit, and then engaging those around us, I initially had a hard t
 
 [![Ramea boardwalk](http://windleblo.com/wp-content/uploads/2016/08/IMG_2890-e1471796970363-225x300.jpg)](/wp-content/uploads/2016/08/IMG_2890-e1471796970363.jpg)
 
-Ramea boardwalk
+## Ramea boardwalk
 
 We spent the weekend hiking the eight kilometer boardwalk around the island’s perimeter, drinking beer and listening to music, and climbing the hills to fly the drone. Too soon, the festival ended and our time on Ramea was up. We pointed the boat northwest toward Grey River.
 
@@ -38,7 +38,7 @@ While the Basin and Barasway were spectacular, Grey River was even more so. A tr
 
 [![Grey River, Northwest Arm](http://windleblo.com/wp-content/uploads/2016/08/IMG_2928-300x225.jpg)](/wp-content/uploads/2016/08/IMG_2928.jpg)
 
-Grey River, Northwest Arm
+## Grey River, Northwest Arm
 
 Next day, we dinghied up to the mouth of the river, hauled the dinghy above the high tide line, and set out upwards. Mostly rock hopping but sometimes wading, we ascended until we found a section of the river with a succession of rapids, falls, and pools, reminding me of New Hampshire’s Swift River and childhood summer days on Windleblo Cove. Here, after launching and retrieving the drone, we swam and soaked, then sunned.
 
@@ -52,7 +52,7 @@ Eastward we moved to La Hune Bay and Deadman’s (pronounced DEED-man’s) Cove.
 
 [![Francois blueberries](http://windleblo.com/wp-content/uploads/2016/08/IMG_3040-e1472237753352-225x300.jpg)](/wp-content/uploads/2016/08/IMG_3040-e1472237753352.jpg)
 
-Francois blueberries
+## Francois blueberries
 
 Leaving Deadman’s Cove, our next stop the following day was the outport of Francois (pronounced Frans-WAY). One of the few functioning towns along this coast, Francois is visited by the ferry every evening. Some townspeople greeted us as we tied up to a floating dock set up exclusively for visiting yachts, and we soon discovered that, unlike Grand Bruit, women were among the town’s inhabitants. A small grocery store, a post office, and a school were in evidence as we toured the town’s network of sidewalks. Residents got around town on foot, but mostly by quad ATVs.
 
@@ -64,7 +64,7 @@ All the cruising guides warned us about the viciousness of the insects in Newfou
 
 [![Francois](http://windleblo.com/wp-content/uploads/2016/08/IMG_2985-300x225.jpg)](/wp-content/uploads/2016/08/IMG_2985.jpg)
 
-Francois
+## Francois
 
 Tied to the dock opposite us was a boat I recognized from earlier in the season. Soon returning from a shore excursion, we greeted Pete and Louise Hoggins, owners of _VMG_ , a British-flagged Catana 42 catamaran. We had first encountered Pete and Louise as they filled their tanks with diesel in Halifax. Pete and Louise are full-time liveaboards working their way north and east to round out the summer season before turning south and eventually wintering in the Bahamas. They were leaving Francois the morning after our arrival, but we pledged to catch up to them in Hare Bay, another spectacular fjord just down the coast. To tie us over, Louise offered us fresh basil from her on board garden!
 
@@ -72,7 +72,7 @@ We kept our pledge, arriving at Hare Bay’s Northwest Arm two days later to fin
 
 [![Hare Bay waterfall](http://windleblo.com/wp-content/uploads/2016/08/IMG_0322-e1472304909205-225x300.jpg)](/wp-content/uploads/2016/08/IMG_0322-e1472304909205.jpg)
 
-Hare Bay waterfall
+## Hare Bay waterfall
 
 I know there’s quite a bit of debate about the virtues of monohulled boats vs. catamarans, but once you’ve been on a cat you end up with living room envy.  _VMG’s_ saloon is as spacious as a gymnasium, serving as a kind of great room with galley, nav station, dining area, and living space rolled together. A convenient sliding glass door separates the saloon from a spacious aft deck, which extends the living quarters in good weather. Only two years new, everything was sparkling, which is testament to Pete and Louise’s sailing ethos and attention to maintenance detail. A born worrier, Pete sweats the details, which Louse claims to love as she says it frees her from worrying herself. Regardless, with 40,000 cruising miles under their keel (they owned a monohull prior to _VMG_), they have earned their stripes and _VMG’s_ sterling condition shows it.
 

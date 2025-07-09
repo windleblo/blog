@@ -20,7 +20,7 @@ While you’re in Casco Bay, take a look at Clapboard Island, on the western sid
 
 Best.
 
-Matthew”
+## Matthew”
 
 Those of you who know know that life aboard the _Windleblo_ is fully serendipitous, so it was a no brainer to alter course toward Clapboard Island.
 

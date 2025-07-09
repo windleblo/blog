@@ -6,62 +6,62 @@ author: Jack
 categories: [uncategorized]
 ---
 
-The storm passes
+## The storm passes
 
-Black clouds clear
+## Black clouds clear
 
-Damage done
+## Damage done
 
-Pick up broken pieces
+## Pick up broken pieces
 
-Feel the sun
+## Feel the sun
 
-Begin again
+## Begin again
 
-Try to create
+## Try to create
 
-Efforts fail
+## Efforts fail
 
-Hard to accept
+## Hard to accept
 
-Ashamed and embarrassed
+## Ashamed and embarrassed
 
-Not sure what’s next
+## Not sure what’s next
 
-Begin again
+## Begin again
 
-Socially outcast
+## Socially outcast
 
-Feeling alone
+## Feeling alone
 
-Emotions flood
+## Emotions flood
 
-Look deep within
+## Look deep within
 
-Find the good
+## Find the good
 
-Begin again
+## Begin again
 
-Head spins
+## Head spins
 
-Thoughts muddled
+## Thoughts muddled
 
-Samsara unleashed
+## Samsara unleashed
 
-Calm the mind
+## Calm the mind
 
-Feel at peace
+## Feel at peace
 
-Begin again
+## Begin again
 
-A union dissolves
+## A union dissolves
 
-Hearts break
+## Hearts break
 
-Life in tatters
+## Life in tatters
 
-Find the meaning
+## Find the meaning
 
-Seek what’s after
+## Seek what’s after
 
-Begin again
+## Begin again

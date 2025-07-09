@@ -12,4 +12,4 @@ Soon, I’ll post a detailed spring commissioning punch list for anyone needing 
 
 [![Failed valve assembly](http://windleblo.com/wp-content/uploads/2016/05/IMG_2554-300x225.jpg)](/wp-content/uploads/2016/05/IMG_2554.jpg)
 
-Failed valve assembly
+## Failed valve assembly

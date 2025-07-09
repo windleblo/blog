@@ -8,11 +8,11 @@ categories: [uncategorized]
 
 [![Bluenose II](http://windleblo.com/wp-content/uploads/2016/06/bluenose-ii-1024x768.jpg)](/wp-content/uploads/2016/06/bluenose-ii.jpg)
 
-Bluenose II
+## Bluenose II
 
 In no particular order, here are first impressions of our time so far in Nova Scotia.
 
-Foremost in my mind, everyone is so friendly!
+## Foremost in my mind, everyone is so friendly!
 
 My first encounter with a native was when I landed on the Bluenose II wharf in Lunenburg the morning after the crossing. In typical up tight, Type A fashion, I was bent on finding the Customs phone allegedly fixed to the dock. It was pretty early in the morning, and a portly lady dressed in a Bluenose II crew t-shirt was just about the only person around. She greeted me and, noticing I was clueless, asked if she could help. I explained what I was looking for and she said she knew of no such phone. But, she offered cheerfully, I could borrow her phone if that would help. I told her it would and called 888-CANPASS, the Canadian Customs report line.
 
@@ -24,7 +24,7 @@ Since these first encounters, with virtually no exception, everyone has been ple
 
 [![Windleblo on Mike Knock's Mooring](http://windleblo.com/wp-content/uploads/2016/06/IMG_2606-300x225.jpg)](/wp-content/uploads/2016/06/IMG_2606.jpg)
 
-Windleblo on Mike Knock’s Mooring
+## Windleblo on Mike Knock’s Mooring
 
 And so it went. Time and again, the natives have proven friendly and easy going. Last evening, we attended a show Jocelyn learned about at the Mahone Bay Community Center called “Glimpses,” billed as a home spun collection of skits and songs rendering the historical facts and fictions of the area, from the early days in the mid-18th century when the area was settled by German, Swiss, & Dutch Protestants, to the more recent days of the Bluenose II fishing era and the incidents with the Shag Harbour UFO sighting and Oak Island Money Pit pirate treasure. During the introduction, the MC asked for visitors to identify themselves. Only a few hands went up as most in the audience were locals. There was a couple from Ottawa and a man from Toronto. When Jocelyn announced we were from Colorado, the crowd burst into applause! Friendly, indeed!
 
@@ -36,7 +36,7 @@ Equally brilliant is the feeling of safety and security here, and not because of
 
 [![With new friends on "Knit in Public Day" in Mahone Bay](http://windleblo.com/wp-content/uploads/2016/06/IMG_2636-300x225.jpg)](/wp-content/uploads/2016/06/IMG_2636.jpg)
 
-With new friends on “Knit in Public Day” in Mahone Bay
+## With new friends on “Knit in Public Day” in Mahone Bay
 
 As we meet more people here, visit the museums, and learn about the history, we can’t help but get a sense of the place’s British heritage. Indeed, the museum exhibits explain that the first German, Dutch, and Swiss settlers of Lunenburg County were shepherded here under a program organized by the British in Halifax to bring industrious souls to the province. When the American Revolution erupted, British loyalists fled to Nova Scotia and found sanctuary in the towns along this coast, only to be later ravaged by Boston “privateers” who sacked Lunenburg. Today, the local accent, while distinctly Canadian, has a twinge of Britishness to it, to my ear. And the currency has an image of Queen Elizabeth on it. We may well be in North America, but it feels part of the British Empire.
 
@@ -46,7 +46,7 @@ As far as boating services go, we have not needed much so have not had to seek t
 
 [![Rails to Trails](http://windleblo.com/wp-content/uploads/2016/06/IMG_2627-e1466272326490-225x300.jpg)](/wp-content/uploads/2016/06/IMG_2627-e1466272326490.jpg)
 
-Rails to Trails
+## Rails to Trails
 
 Another big plus is the marvelous rails to trails system here. Most of the provinces’ railroads were abandoned about 50 years ago. Since then, a concerted effort has been made to convert the rail right of way for use by pedestrians and bicyclists. The network extends all around the Maritime Provinces and rivals any I have seen. We rode our Brompton folders from Lunenburg to Mahone Bay to Gold River to Bridgewater, all without cars whooshing by and only railroad grade hills to contend with. Each town takes care of their section, so there is some variability to the crushed rock surface, but all are serviceable. For us, this amenity increases the area’s attractiveness significantly.
 

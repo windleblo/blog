@@ -8,7 +8,7 @@ categories: [uncategorized]
 
 [![Raising the bleu, blanc et rouge](http://windleblo.com/wp-content/uploads/2016/08/IMG_0440-e1472677949963-225x300.jpg)](/wp-content/uploads/2016/08/IMG_0440-e1472677949963.jpg)
 
-Raising the bleu, blanc et rouge
+## Raising the bleu, blanc et rouge
 
 Who’d a thunk it? Just off the Newfoundland coast sits a piece of France. Not French Canada, but actually France, with EU license plates, euros, 220 volt electricity, boulangeries, patisseries, metropolitan atmosphere, and Frenchmen (& women) everywhere. Quite a contrast with the rugged Newfoundland remoteness just across the water.
 
@@ -16,19 +16,19 @@ Two islands – Miquelon and St. Pierre – occupy less than 100 square miles no
 
 [![Euroland](http://windleblo.com/wp-content/uploads/2016/08/IMG_3059-e1472237704825-225x300.jpg)](/wp-content/uploads/2016/08/IMG_3059-e1472237704825.jpg)
 
-Euroland
+## Euroland
 
 Our arrival in St. Pierre followed a 12 hour sail south from Hare Bay begun at 1 a.m. under brilliant full moonlight. The wee hours departure was timed to make the most of a short window of favorable wind pushing us south. We tied up to the wharf at the Ecole de Voile (sailing school) and were soon boarded by Customs and Immigration officials who efficiently processed us into the EU.
 
 [![La patisserie, St. Pierre](http://windleblo.com/wp-content/uploads/2016/08/IMG_3073-e1472237640370-225x300.jpg)](/wp-content/uploads/2016/08/IMG_3073-e1472237640370.jpg)
 
-La patisserie, St. Pierre
+## La patisserie, St. Pierre
 
 Next, we were welcomed at the school’s registration desk where we booked a mooring and were oriented to island attractions. Most importantly, we were advised to get the island’s best boulangerie (bakery) by 8 a.m. or risk missing the fresh croissants. Priorities…!
 
 [![Hairdresser shop, St. Pierre](http://windleblo.com/wp-content/uploads/2016/08/IMG_3084-300x225.jpg)](/wp-content/uploads/2016/08/IMG_3084.jpg)
 
-Hairdresser shop, St. Pierre
+## Hairdresser shop, St. Pierre
 
 Following initial reconnaissance on foot, we broke out the bikes and explored further afield. Cars rushed here and there, which seemed odd given that the town was perhaps 20 square blocks and the water’s edge not far beyond in any direction. But compared to Francois and Ramea, this was cosmopolitan. We took it in.
 
@@ -36,7 +36,7 @@ For decades, fishing was a way of life here. But as the fishing grounds became d
 
 [![From the hills above St. Pierre](http://windleblo.com/wp-content/uploads/2016/08/IMG_3114-e1472677983578-225x300.jpg)](/wp-content/uploads/2016/08/IMG_3114-e1472677983578.jpg)
 
-From the hills above St. Pierre
+## From the hills above St. Pierre
 
 Not far beyond the city’s edge, nature prevails as it did in Newfoundland. The island is crisscrossed by a network of hiking trails accessing amazing scenery. We hiked to the high point to enjoy the view.
 
@@ -46,7 +46,7 @@ Tom watched his weather sources and, after two days of waiting, announced that h
 
 [![Rough seas crash onto Miquelon](http://windleblo.com/wp-content/uploads/2016/08/IMG_3078-1024x768.jpg)](/wp-content/uploads/2016/08/IMG_3078.jpg)
 
-Rough seas crash onto the shore
+## Rough seas crash onto the shore
 
 On the second night after they left, we battened down the hatches to ride out a strong gale on our mooring ball. The winds came as forecast, reaching 45 knots near daybreak and whipping up steep chop even in the harbor. It was enough to flip the dinghy, which was secured by three lines to the transom. I cursed myself for not lashing it to the deck the night before. I hoped _Nomad_ was well south of the storm.
 
@@ -56,7 +56,7 @@ A couple days later, I emailed Tom, asking for a safe arrival reply. None came. 
 
 [![St. Pierre window](http://windleblo.com/wp-content/uploads/2016/08/IMG_3080-e1472237557906-225x300.jpg)](/wp-content/uploads/2016/08/IMG_3080-e1472237557906.jpg)
 
-St. Pierre window
+## St. Pierre window
 
 As for Andrew and I, we were glad to have waited out the storm. One week after arriving, we left St. Pierre for a 250-nautical-mile crossing to Isle de la Madeline, Quebec. Neptune treated us well, as winds and waves were fair and relatively smooth, though there were a few bouncy stretches as we entered the Gulf of St. Lawrence off Newfoundland’s southwest corner. Forty-four hours after shoving off, we landed in Cap-aux-Mueles, greeted by more French, this time with distinct Quebecois accents. Our time in France was over.
 

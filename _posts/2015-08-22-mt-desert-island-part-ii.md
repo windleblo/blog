@@ -32,7 +32,7 @@ Granite steps, 995 in all, leading to the top of Mt. Mansell on the Perpendicula
 
 [![Ladder up Perpendicular Trail to Mt. Mansell](http://windleblo.com/wp-content/uploads/2015/08/IMG_1971-e1440256467942-768x1024.jpg)](/wp-content/uploads/2015/08/IMG_1971-e1440256467942.jpg)
 
-Ladder up Perpendicular Trail to Mt. Mansell
+## Ladder up Perpendicular Trail to Mt. Mansell
 
 [![Horse drawn carriage crossing a carriage road bridge.](http://windleblo.com/wp-content/uploads/2015/08/IMG_1979-1024x768.jpg)](/wp-content/uploads/2015/08/IMG_1979.jpg)
 

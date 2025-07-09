@@ -6,9 +6,18 @@ author: Jack
 categories: [uncategorized]
 ---
 
-[![](http://windleblo.com/wp-content/uploads/2017/09/IMG_4873-e1504472044237-225x300.jpg)](/wp-content/uploads/2017/09/IMG_4873-e1504472044237.jpg)
+[<!-- IMAGE PLACEHOLDER
+Original URL: http://windleblo.com/wp-content/uploads/2017/09/IMG_4873-e1504472044237-225x300.jpg
+Filename: IMG_4873-e1504472044237-225x300.jpg
+Date path: 2017/09/IMG_4873-e1504472044237-225x300.jpg
+Caption: ](/wp-content/uploads/2017/09/IMG_4873-e1504472044237.jpg)
+Instructions: Replace this comment with actual image upload
+-->
 
-The War of 1812 was fought here
+**[IMAGE MISSING: ](/wp-content/uploads/2017/09/IMG_4873-e1504472044237.jpg)]**
+*Original filename: IMG_4873-e1504472044237-225x300.jpg*
+
+## The War of 1812 was fought here
 
 History is all around at Sackets Harbor, our first stop on the shores of Lake Ontario.
 
@@ -18,9 +27,18 @@ Here, we learned that the War of 1812 was declared by a young United States outr
 
 The border between the U.S. and Canada was the front lines and the
 
-[![](http://windleblo.com/wp-content/uploads/2017/09/IMG_4860-e1504471973228-225x300.jpg)](/wp-content/uploads/2017/09/IMG_4860-e1504471973228.jpg)
+[<!-- IMAGE PLACEHOLDER
+Original URL: http://windleblo.com/wp-content/uploads/2017/09/IMG_4860-e1504471973228-225x300.jpg
+Filename: IMG_4860-e1504471973228-225x300.jpg
+Date path: 2017/09/IMG_4860-e1504471973228-225x300.jpg
+Caption: ](/wp-content/uploads/2017/09/IMG_4860-e1504471973228.jpg)
+Instructions: Replace this comment with actual image upload
+-->
 
-Zebulon Pike’s grave at Sackets Harbor military cemetery
+**[IMAGE MISSING: ](/wp-content/uploads/2017/09/IMG_4860-e1504471973228.jpg)]**
+*Original filename: IMG_4860-e1504471973228-225x300.jpg*
+
+## Zebulon Pike’s grave at Sackets Harbor military cemetery
 
 Great Lakes the naval battlefield. Sackets Harbor became the headquarters for the U.S. Army and Navy on the northern frontier. To this day, the town preserves the battlefield where twice the British attacked, once in June 1812, and again on May 29, 1813. The first ended after several hours without a clear victor; the second resulted in losses that set back American plans for an 1813 offensive into Canada.
 
@@ -28,9 +46,18 @@ Here, too, rests the body of Brigadier General Zebulon Pike in a military cemete
 
 Our history lessons complete, we weighed anchor for a short sail to Stony Island 10 nautical miles off the coast. We passed a quiet night in Dutch John Bay before setting off for Little Sodus Bay and a visit to
 
-[![](http://windleblo.com/wp-content/uploads/2017/09/IMG_4881-e1504472105389-225x300.jpg)](/wp-content/uploads/2017/09/IMG_4881-e1504472105389.jpg)
+[<!-- IMAGE PLACEHOLDER
+Original URL: http://windleblo.com/wp-content/uploads/2017/09/IMG_4881-e1504472105389-225x300.jpg
+Filename: IMG_4881-e1504472105389-225x300.jpg
+Date path: 2017/09/IMG_4881-e1504472105389-225x300.jpg
+Caption: ](/wp-content/uploads/2017/09/IMG_4881-e1504472105389.jpg)
+Instructions: Replace this comment with actual image upload
+-->
 
-Sodus Point lighthouse
+**[IMAGE MISSING: ](/wp-content/uploads/2017/09/IMG_4881-e1504472105389.jpg)]**
+*Original filename: IMG_4881-e1504472105389-225x300.jpg*
+
+## Sodus Point lighthouse
 
 the village of Fair Haven. We broke out the Bromptons and took a pleasant ride through the Fair Haven Beach State Park and surrounding countryside. Apparently, the bucolic countryside appealed to Jocelyn who remarked, “I would recommend upstate New York to my friends for a vacation.”
 
@@ -38,9 +65,18 @@ We capped off the ride with a stop at a local winery where we met Vince and Joan
 
 After a glorious beam reach the next day, Windleblo arrived at Big Sodus. After taking the mooring ball, we went ashore for happy hour at Vince and Joanne’s home, which had a beautiful view of the bay and the lake beyond. Vince generously loaned us his Caddy for a quick tour of
 
-[![](http://windleblo.com/wp-content/uploads/2017/09/IMG_4884-e1504472150390-225x300.jpg)](/wp-content/uploads/2017/09/IMG_4884-e1504472150390.jpg)
+[<!-- IMAGE PLACEHOLDER
+Original URL: http://windleblo.com/wp-content/uploads/2017/09/IMG_4884-e1504472150390-225x300.jpg
+Filename: IMG_4884-e1504472150390-225x300.jpg
+Date path: 2017/09/IMG_4884-e1504472150390-225x300.jpg
+Caption: ](/wp-content/uploads/2017/09/IMG_4884-e1504472150390.jpg)
+Instructions: Replace this comment with actual image upload
+-->
 
-The BIG attraction in Sodus Point
+**[IMAGE MISSING: ](/wp-content/uploads/2017/09/IMG_4884-e1504472150390.jpg)]**
+*Original filename: IMG_4884-e1504472150390-225x300.jpg*
+
+## The BIG attraction in Sodus Point
 
 the area, which included a stop at the local watering hole aptly named Captain Jack’s Goodtime Tavern. I picked up some pride wear.
 

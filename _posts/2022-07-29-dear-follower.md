@@ -20,32 +20,158 @@ So, too, am I grateful for my brother, Bill, who has joined me throughout the He
 
 Celebratory beers in hand, Bill and I reminisced about highlights of the Healing Voyage, represented by these photos:
 
-![](http://windleblo.com/wp-content/uploads/2022/07/IMG_0216-768x1024.jpeg)The Sunken Garden at Butchart Gardens, Victoria
+<!-- IMAGE PLACEHOLDER
+Original URL: http://windleblo.com/wp-content/uploads/2022/07/IMG_0216-768x1024.jpeg
+Filename: IMG_0216-768x1024.jpeg
+Date path: 2022/07/IMG_0216-768x1024.jpeg
+Caption: The Sunken Garden at Butchart Gardens, Victoria
+Instructions: Replace this comment with actual image upload
+-->
 
-![](http://windleblo.com/wp-content/uploads/2022/07/IMG_0640-1024x768.jpg)Voyage mascot through the galley hatch
+**[IMAGE MISSING: The Sunken Garden at Butchart Gardens, Victoria]**
+*Original filename: IMG_0216-768x1024.jpeg*
 
-![](http://windleblo.com/wp-content/uploads/2022/07/IMG_0585-768x1024.jpg)Well reefed rounding the Brooks Peninsula
+<!-- IMAGE PLACEHOLDER
+Original URL: http://windleblo.com/wp-content/uploads/2022/07/IMG_0640-1024x768.jpg
+Filename: IMG_0640-1024x768.jpg
+Date path: 2022/07/IMG_0640-1024x768.jpg
+Caption: Voyage mascot through the galley hatch
+Instructions: Replace this comment with actual image upload
+-->
 
-![](http://windleblo.com/wp-content/uploads/2022/07/IMG_0635.jpg)Bunsby Island jellyfish
+**[IMAGE MISSING: Voyage mascot through the galley hatch]**
+*Original filename: IMG_0640-1024x768.jpg*
 
-![](http://windleblo.com/wp-content/uploads/2022/07/IMG_0646-1024x613.jpg)Frida treed a bear!
+<!-- IMAGE PLACEHOLDER
+Original URL: http://windleblo.com/wp-content/uploads/2022/07/IMG_0585-768x1024.jpg
+Filename: IMG_0585-768x1024.jpg
+Date path: 2022/07/IMG_0585-768x1024.jpg
+Caption: Well reefed rounding the Brooks Peninsula
+Instructions: Replace this comment with actual image upload
+-->
 
-![](http://windleblo.com/wp-content/uploads/2022/07/IMG_0677-scaled.jpg)Rugged Point driftwood and beach
+**[IMAGE MISSING: Well reefed rounding the Brooks Peninsula]**
+*Original filename: IMG_0585-768x1024.jpg*
 
-![](http://windleblo.com/wp-content/uploads/2022/07/IMG_0700-768x1024.jpg)Fresh catch
+<!-- IMAGE PLACEHOLDER
+Original URL: http://windleblo.com/wp-content/uploads/2022/07/IMG_0635.jpg
+Filename: IMG_0635.jpg
+Date path: 2022/07/IMG_0635.jpg
+Caption: Bunsby Island jellyfish
+Instructions: Replace this comment with actual image upload
+-->
 
-![](http://windleblo.com/wp-content/uploads/2022/07/IMG_1013-768x1024.jpg)Bacchante Bay view
+**[IMAGE MISSING: Bunsby Island jellyfish]**
+*Original filename: IMG_0635.jpg*
 
-![](http://windleblo.com/wp-content/uploads/2022/07/IMG_0987-595x1024.jpg)Hot Springs soak
+<!-- IMAGE PLACEHOLDER
+Original URL: http://windleblo.com/wp-content/uploads/2022/07/IMG_0646-1024x613.jpg
+Filename: IMG_0646-1024x613.jpg
+Date path: 2022/07/IMG_0646-1024x613.jpg
+Caption: Frida treed a bear!
+Instructions: Replace this comment with actual image upload
+-->
 
-![](http://windleblo.com/wp-content/uploads/2022/07/IMG_0637-1024x473.jpg)Alligator driftwood
+**[IMAGE MISSING: Frida treed a bear!]**
+*Original filename: IMG_0646-1024x613.jpg*
 
-![](http://windleblo.com/wp-content/uploads/2022/07/IMG_0882-1024x1024.jpg)Whale drone shot
+<!-- IMAGE PLACEHOLDER
+Original URL: http://windleblo.com/wp-content/uploads/2022/07/IMG_0677-scaled.jpg
+Filename: IMG_0677-scaled.jpg
+Date path: 2022/07/IMG_0677-scaled.jpg
+Caption: Rugged Point driftwood and beach
+Instructions: Replace this comment with actual image upload
+-->
 
-![](http://windleblo.com/wp-content/uploads/2022/07/IMG_0836-768x1024.jpg)Inside a First Nation church at Yuquot
+**[IMAGE MISSING: Rugged Point driftwood and beach]**
+*Original filename: IMG_0677-scaled.jpg*
 
-![](http://windleblo.com/wp-content/uploads/2022/07/IMG_0486-768x1024.jpg)A proper British breakfast
+<!-- IMAGE PLACEHOLDER
+Original URL: http://windleblo.com/wp-content/uploads/2022/07/IMG_0700-768x1024.jpg
+Filename: IMG_0700-768x1024.jpg
+Date path: 2022/07/IMG_0700-768x1024.jpg
+Caption: Fresh catch
+Instructions: Replace this comment with actual image upload
+-->
 
-![](http://windleblo.com/wp-content/uploads/2022/07/IMG_0826-576x1024.jpg)Doug and Donna, Keepers of the Nootka Lighthouse
+**[IMAGE MISSING: Fresh catch]**
+*Original filename: IMG_0700-768x1024.jpg*
+
+<!-- IMAGE PLACEHOLDER
+Original URL: http://windleblo.com/wp-content/uploads/2022/07/IMG_1013-768x1024.jpg
+Filename: IMG_1013-768x1024.jpg
+Date path: 2022/07/IMG_1013-768x1024.jpg
+Caption: Bacchante Bay view
+Instructions: Replace this comment with actual image upload
+-->
+
+**[IMAGE MISSING: Bacchante Bay view]**
+*Original filename: IMG_1013-768x1024.jpg*
+
+<!-- IMAGE PLACEHOLDER
+Original URL: http://windleblo.com/wp-content/uploads/2022/07/IMG_0987-595x1024.jpg
+Filename: IMG_0987-595x1024.jpg
+Date path: 2022/07/IMG_0987-595x1024.jpg
+Caption: Hot Springs soak
+Instructions: Replace this comment with actual image upload
+-->
+
+**[IMAGE MISSING: Hot Springs soak]**
+*Original filename: IMG_0987-595x1024.jpg*
+
+<!-- IMAGE PLACEHOLDER
+Original URL: http://windleblo.com/wp-content/uploads/2022/07/IMG_0637-1024x473.jpg
+Filename: IMG_0637-1024x473.jpg
+Date path: 2022/07/IMG_0637-1024x473.jpg
+Caption: Alligator driftwood
+Instructions: Replace this comment with actual image upload
+-->
+
+**[IMAGE MISSING: Alligator driftwood]**
+*Original filename: IMG_0637-1024x473.jpg*
+
+<!-- IMAGE PLACEHOLDER
+Original URL: http://windleblo.com/wp-content/uploads/2022/07/IMG_0882-1024x1024.jpg
+Filename: IMG_0882-1024x1024.jpg
+Date path: 2022/07/IMG_0882-1024x1024.jpg
+Caption: Whale drone shot
+Instructions: Replace this comment with actual image upload
+-->
+
+**[IMAGE MISSING: Whale drone shot]**
+*Original filename: IMG_0882-1024x1024.jpg*
+
+<!-- IMAGE PLACEHOLDER
+Original URL: http://windleblo.com/wp-content/uploads/2022/07/IMG_0836-768x1024.jpg
+Filename: IMG_0836-768x1024.jpg
+Date path: 2022/07/IMG_0836-768x1024.jpg
+Caption: Inside a First Nation church at Yuquot
+Instructions: Replace this comment with actual image upload
+-->
+
+**[IMAGE MISSING: Inside a First Nation church at Yuquot]**
+*Original filename: IMG_0836-768x1024.jpg*
+
+<!-- IMAGE PLACEHOLDER
+Original URL: http://windleblo.com/wp-content/uploads/2022/07/IMG_0486-768x1024.jpg
+Filename: IMG_0486-768x1024.jpg
+Date path: 2022/07/IMG_0486-768x1024.jpg
+Caption: A proper British breakfast
+Instructions: Replace this comment with actual image upload
+-->
+
+**[IMAGE MISSING: A proper British breakfast]**
+*Original filename: IMG_0486-768x1024.jpg*
+
+<!-- IMAGE PLACEHOLDER
+Original URL: http://windleblo.com/wp-content/uploads/2022/07/IMG_0826-576x1024.jpg
+Filename: IMG_0826-576x1024.jpg
+Date path: 2022/07/IMG_0826-576x1024.jpg
+Caption: Doug and Donna, Keepers of the Nootka Lighthouse
+Instructions: Replace this comment with actual image upload
+-->
+
+**[IMAGE MISSING: Doug and Donna, Keepers of the Nootka Lighthouse]**
+*Original filename: IMG_0826-576x1024.jpg*
 
 [https://youtube.com/shorts/iGWEdPfykaQ?feature=share](https://web.archive.org/web/20230522032848/https://youtube.com/shorts/iGWEdPfykaQ?feature=share)

@@ -38,7 +38,7 @@ Just a technicality, for this rating I am considering the Gulf of Maine to exten
 
 So here goes.
 
-_Climate_
+## _Climate_
 
 Overall rating is a Three.
 
@@ -48,7 +48,7 @@ Cons – The water is very cold, which is good in that it moderates the air temp
 
 I’d consider the tides and currents a neutral factor. Yes, they can complicate cruising plans but that keeps things interesting. On balance, the winds were also a neutral factor. We motored more here than elsewhere (60 percent of our miles were made under engine power), which reflects the absence of wind. But we enjoyed many terrific sailing days and were never confronted with winds too strong to manage.
 
-_Natural Beauty_
+## _Natural Beauty_
 
 Overall rating is a Five.
 
@@ -56,7 +56,7 @@ Pros – Growing up on the rocky New England coast, sailing the Gulf of Maine wa
 
 Cons – None.
 
-_Cultural Attractions_
+## _Cultural Attractions_
 
 Overall rating is a Three.
 
@@ -70,7 +70,7 @@ And for us, a big Con is the absence of other cruisers. Sure, there are a lot of
 
 Food is a neutral factor. Certainly, provisioning was easy. Grocery stores are plentiful, even in the small towns. Food quality is generally acceptable, though gourmet ingredients can be hard to come by. As for regional fare, there are only so many ways you can prepare lobster, and surprisingly we rarely found fresh seafood at the source. I did not buy a fishing license so don’t have a feel for that.
 
-_Boat Amenities_
+## _Boat Amenities_
 
 Overall rating is a Three.
 
@@ -80,7 +80,7 @@ Happily, we did not need to make any repairs this season. That said, I never fel
 
 Cons – The entire season, we did not tie up to a dock and connect to shore power. This reflects two realities: 1.) there are not many marinas here and 2.) the Captain is too cheap to pay the high dock fees the few marinas extort for transient slips. Often, when we called to inquire about availability of a slip, we were told that the charge would be $3 or $4 per foot — $120 per $160 per night for our boat. Slips were much less than half that in some of the other places we cruised. Rather than take a slip, we anchored or tied up to a mooring all season, requiring use of the dinghy to get to shore. Once you’re used to it, launching the dinghy upon arrival becomes routine, and sleeping while swinging at anchor in Good Mud is one of the most enjoyable experiences life has to offer. So the lack of slips was no hardship. That said, from time to time taking a slip is a nice break from anchoring, and the lack of marinas and high price of slip rental removed that option from the mix this season.
 
-_Overall Rating_
+## _Overall Rating_
 
 Overall, the Gulf of Maine receives a rating of Three Plus – a bit better than average and certainly a contender for Home Waters but not the front runner at this point.
 

@@ -10,23 +10,23 @@ Final days are here once again in the transition from the land-based life. Ranch
 
 Here’s the crew lineup for the season:
 
-Spring commissioning – Jocelyn
+## Spring commissioning – Jocelyn
 
-Leg 1, Detroit to Little Current – John Hranac
+## Leg 1, Detroit to Little Current – John Hranac
 
 Leg 2, Little Current to Sault Saint Marie – John Hoopes, Asher Herbstman
 
-Leg 3, Sault Saint Marie to Thunder Bay – John Renna
+## Leg 3, Sault Saint Marie to Thunder Bay – John Renna
 
-Leg 4, Thunder Bay around Isle Royale – Walt Lienhard
+## Leg 4, Thunder Bay around Isle Royale – Walt Lienhard
 
-Leg 4, Apostle Islands to Duluth – Emily Hoopes
+## Leg 4, Apostle Islands to Duluth – Emily Hoopes
 
-Boat prep and road trip to Seattle – Jocelyn
+## Boat prep and road trip to Seattle – Jocelyn
 
 A poem is inspired.
 
-Sailing Awaits
+## Sailing Awaits
 
 High Plains sun bakes thin June air.  
 Days blend, lengthening as they go.  

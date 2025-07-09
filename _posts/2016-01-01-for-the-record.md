@@ -10,7 +10,7 @@ Dull, dry stuff now, unless you’re a cruiser detail junkie.
 
 Here’s a list of (almost) all the decommissioning tasks we accomplished back in September when we prepped the boat for winter layup in South Freeport. They’re archived here.
 
-WEDNESDAY, SEPTEMBER 16TH 
+## WEDNESDAY, SEPTEMBER 16TH
 
   * Disconnect whisker pole
   * Take down sails
@@ -19,7 +19,7 @@ WEDNESDAY, SEPTEMBER 16TH
   * Remove pushpit MOB gear
   * Remove nav lights
 
-FRIDAY, SEPTEMBER 18TH
+## FRIDAY, SEPTEMBER 18TH
 
   * Disconnect mast electrical
   * Wash and pack dinghy
@@ -29,7 +29,7 @@ FRIDAY, SEPTEMBER 18TH
   * Remove knot meter
   * Remove wind generator blades
 
-SATURDAY, SEPTEMBER 19TH
+## SATURDAY, SEPTEMBER 19TH
 
   * Soak, dry and store running rigging
   * Wash & dry bimini & binnacle canvas
@@ -39,7 +39,7 @@ SATURDAY, SEPTEMBER 19TH
   * Top off battery water
   * Fill propane tanks
 
-MONDAY, SEPTEMBER 21ST
+## MONDAY, SEPTEMBER 21ST
 
   * Exercise Webasto heater
   * Polish stainless
@@ -53,7 +53,7 @@ MONDAY, SEPTEMBER 21ST
   * Clean raw water system strainer
   * Plug air intake with oily rag
 
-TUESDAY, SEPTEMBER 22ND
+## TUESDAY, SEPTEMBER 22ND
 
   * Flush water tank & lines
   * Disconnect boom
@@ -61,7 +61,7 @@ TUESDAY, SEPTEMBER 22ND
   * Deep clean boat interior
   * Treat bimini and liferaft canvas with 303 Fabric Guard spray
 
-WEDNESDAY, SEPTEMBER 23RD
+## WEDNESDAY, SEPTEMBER 23RD
 
   * Haul boat, including mast removal
   * Charge batteries
@@ -73,7 +73,7 @@ WEDNESDAY, SEPTEMBER 23RD
   * Remove outboard mounting board
   * Remove carpet
 
-THURSDAY, SEPTEMBER 24TH
+## THURSDAY, SEPTEMBER 24TH
 
   * Disconnect propane tank, cover threads, close valve
   * Clean/lube bikes
@@ -95,7 +95,7 @@ THURSDAY, SEPTEMBER 24TH
   * Disconnect battery negative cables
   * Perform battery voltage test & record results
 
-FRIDAY, SEPTEMBER 25TH
+## FRIDAY, SEPTEMBER 25TH
 
   * Laundry
   * Purge/organize holds

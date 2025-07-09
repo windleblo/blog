@@ -6,9 +6,18 @@ author: Jack
 categories: [uncategorized]
 ---
 
-[![](http://windleblo.com/wp-content/uploads/2017/06/IMG_3719-300x225.jpg)](/wp-content/uploads/2017/06/IMG_3719.jpg)
+[<!-- IMAGE PLACEHOLDER
+Original URL: http://windleblo.com/wp-content/uploads/2017/06/IMG_3719-300x225.jpg
+Filename: IMG_3719-300x225.jpg
+Date path: 2017/06/IMG_3719-300x225.jpg
+Caption: ](/wp-content/uploads/2017/06/IMG_3719.jpg)
+Instructions: Replace this comment with actual image upload
+-->
 
-Headed toward the water
+**[IMAGE MISSING: ](/wp-content/uploads/2017/06/IMG_3719.jpg)]**
+*Original filename: IMG_3719-300x225.jpg*
+
+## Headed toward the water
 
 Launch here is like an Amish barn raising. There’s no boatyard staff to assist, just one guy who comes over with the travel lift after a full shift of lobstering, which starts at 3 a.m. Peter, the lobsterman, had brought us four fresh lobsters a few days before as he visited us to make arrangement for the launch later in the week.
 
@@ -22,7 +31,16 @@ We set sail Wednesday afternoon to get busy complying with Canadian Border agenc
 
 We arrived expecting to transit the Canso Lock, which connects the two ends of the Canso Strait between Cape Breton Island and the main part of Nova Scotia. We have to get through the Strait before heading 12 nautical miles out to sea off Nova Scotia, then turning around and checking back into the country. All in all, it’s a 250 nm detour, but there’s no way around it, according to the Canadian Border Security authorities.
 
-[![](http://windleblo.com/wp-content/uploads/2017/06/IMG_3741-300x225.jpg)](/wp-content/uploads/2017/06/IMG_3741.jpg)
+[<!-- IMAGE PLACEHOLDER
+Original URL: http://windleblo.com/wp-content/uploads/2017/06/IMG_3741-300x225.jpg
+Filename: IMG_3741-300x225.jpg
+Date path: 2017/06/IMG_3741-300x225.jpg
+Caption: ](/wp-content/uploads/2017/06/IMG_3741.jpg)
+Instructions: Replace this comment with actual image upload
+-->
+
+**[IMAGE MISSING: ](/wp-content/uploads/2017/06/IMG_3741.jpg)]**
+*Original filename: IMG_3741-300x225.jpg*
 
 Here’s the sunset we enjoyed while waiting at anchor for the Canso Lock bridge to get fixed.
 
@@ -32,7 +50,16 @@ Our plan was to find a dock or an anchorage just after the Canso Lock to rest fo
 
 Five nm of backtracking into the wind and waves later, we found a delightful anchorage in Havre Boucher and rested for a layover day. Late Thursday we were contacted by the lock master that the repairs had been completed. We decided to leave early Friday after a good night’s sleep.
 
-[![](http://windleblo.com/wp-content/uploads/2017/06/IMG_3743-300x225.jpg)](/wp-content/uploads/2017/06/IMG_3743.jpg)
+[<!-- IMAGE PLACEHOLDER
+Original URL: http://windleblo.com/wp-content/uploads/2017/06/IMG_3743-300x225.jpg
+Filename: IMG_3743-300x225.jpg
+Date path: 2017/06/IMG_3743-300x225.jpg
+Caption: ](/wp-content/uploads/2017/06/IMG_3743.jpg)
+Instructions: Replace this comment with actual image upload
+-->
+
+**[IMAGE MISSING: ](/wp-content/uploads/2017/06/IMG_3743.jpg)]**
+*Original filename: IMG_3743-300x225.jpg*
 
 Furuno chartplotter screen shot showing lat/long of position in international waters off Nova Scotia
 

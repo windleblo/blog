@@ -6,27 +6,27 @@ author: Jack
 categories: [uncategorized]
 ---
 
-What needs healing?
+## What needs healing?
 
-A. A wound?
+## A. A wound?
 
-B. Pain?
+## B. Pain?
 
-C. Trauma?
+## C. Trauma?
 
-D. All of the above?
+## D. All of the above?
 
 If you chose Answer D, you are correct.
 
-And how does one heal?
+## And how does one heal?
 
-A. Time?
+## A. Time?
 
-B. Attitude?
+## B. Attitude?
 
-C. Sharing love?
+## C. Sharing love?
 
-D. All of the above (and more)?
+## D. All of the above (and more)?
 
 Again, it’s Answer D.
 
@@ -50,7 +50,16 @@ Before Jocelyn’s Ceremony of Gratitude, I ordered a bunch of WWJD bracelets of
 
 Jocelyn wasn’t a writer. She was an accountant, more of a numbers person. And she was all about helping others. If a choice presented itself to her where one way would help others more than another, she would take the more helping way. If these pages can help anyone turn their grief into love, then she would be all for it.
 
-![](http://windleblo.com/wp-content/uploads/2022/07/IMG_0346-1024x768.jpeg)Skipper and mascot upon tying up at Royal Vancouver Yacht Club
+<!-- IMAGE PLACEHOLDER
+Original URL: http://windleblo.com/wp-content/uploads/2022/07/IMG_0346-1024x768.jpeg
+Filename: IMG_0346-1024x768.jpeg
+Date path: 2022/07/IMG_0346-1024x768.jpeg
+Caption: Skipper and mascot upon tying up at Royal Vancouver Yacht Club
+Instructions: Replace this comment with actual image upload
+-->
+
+**[IMAGE MISSING: Skipper and mascot upon tying up at Royal Vancouver Yacht Club]**
+*Original filename: IMG_0346-1024x768.jpeg*
 
 So the Healing Voyage has begun. On July 4th, my crew and I set sail from Canoe Cove Marina, North Saanich, British Columbia. The crew consists of myself as skipper, my brother Bill as first mate, and my dog Frida as mascot.
 
@@ -58,7 +67,7 @@ Our loose cruising plan is to head north and possibly circumnavigate Vancouver I
 
 Allow me now to pose the question again.
 
-How does one heal?
+## How does one heal?
 
 Well, certainly not by inflicting more pain and suffering.
 

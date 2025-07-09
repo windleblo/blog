@@ -12,17 +12,35 @@ Now in Tobermory, Ontario, comparisons with Tobermory, Isle of Mull, Scotland, a
 
 Here’s Tobermory, Scotland:
 
-[![](http://windleblo.com/wp-content/uploads/2018/06/tobermory-self-catering-6-300x150.jpg)](/wp-content/uploads/2018/06/tobermory-self-catering-6.jpg)
+[<!-- IMAGE PLACEHOLDER
+Original URL: http://windleblo.com/wp-content/uploads/2018/06/tobermory-self-catering-6-300x150.jpg
+Filename: tobermory-self-catering-6-300x150.jpg
+Date path: 2018/06/tobermory-self-catering-6-300x150.jpg
+Caption: ](/wp-content/uploads/2018/06/tobermory-self-catering-6.jpg)
+Instructions: Replace this comment with actual image upload
+-->
 
-Tobermory, Isle of Mull, Scotland
+**[IMAGE MISSING: ](/wp-content/uploads/2018/06/tobermory-self-catering-6.jpg)]**
+*Original filename: tobermory-self-catering-6-300x150.jpg*
+
+## Tobermory, Isle of Mull, Scotland
 
 And here’s the best photo I could take of Tobermory, Ontario:
 
-[![](http://windleblo.com/wp-content/uploads/2018/06/IMG_5902-300x225.jpg)](/wp-content/uploads/2018/06/IMG_5902.jpg)
+[<!-- IMAGE PLACEHOLDER
+Original URL: http://windleblo.com/wp-content/uploads/2018/06/IMG_5902-300x225.jpg
+Filename: IMG_5902-300x225.jpg
+Date path: 2018/06/IMG_5902-300x225.jpg
+Caption: ](/wp-content/uploads/2018/06/IMG_5902.jpg)
+Instructions: Replace this comment with actual image upload
+-->
 
-Tobermory, Bruce Peninsula, Ontario
+**[IMAGE MISSING: ](/wp-content/uploads/2018/06/IMG_5902.jpg)]**
+*Original filename: IMG_5902-300x225.jpg*
 
-No comparison, eh?
+## Tobermory, Bruce Peninsula, Ontario
+
+## No comparison, eh?
 
 But, of course, Tobermory, Ontario, is populated by wonderfully nice Canadians, which more than makes up for its lack of photogenisity. While sampling the brew at the Tobermory Brewing Company (which in addition to nice brew has nice poutine), we chatted with Bill and Sarah. They told us of some wonderful anchorages nearby and also about the Collins Inlet across the Georgian Bay.
 

@@ -6,17 +6,35 @@ author: Jack
 categories: [uncategorized]
 ---
 
-[![](http://windleblo.com/wp-content/uploads/2018/06/IMG_5921-1024x227.jpg)](/wp-content/uploads/2018/06/IMG_5921.jpg)
+[<!-- IMAGE PLACEHOLDER
+Original URL: http://windleblo.com/wp-content/uploads/2018/06/IMG_5921-1024x227.jpg
+Filename: IMG_5921-1024x227.jpg
+Date path: 2018/06/IMG_5921-1024x227.jpg
+Caption: ](/wp-content/uploads/2018/06/IMG_5921.jpg)
+Instructions: Replace this comment with actual image upload
+-->
 
-The view above Topaz Lake
+**[IMAGE MISSING: ](/wp-content/uploads/2018/06/IMG_5921.jpg)]**
+*Original filename: IMG_5921-1024x227.jpg*
+
+## The view above Topaz Lake
 
 Phil is the guy who came out on Sunday to help me scrape and sand the bottom of my boat. He didn’t have to. A freelancer at Rick’s boatyard – the solitary regular as far as I could tell – he usually only works weekdays, painting boat bottoms and doing whatever yacht caretaking jobs he can scrounge up. Raised the third from the last child in a good Catholic family of 10 children, he knows hard work. “Everyone had to pull at the rope,” he told me.
 
 When he heard Rick had promised someone to help me prep my boat for antifouling, Phil knew he was overbooked the entire week I needed him. Rather than blow me off, he showed up Sunday for extra duty. We worked our asses off for four hours, scraping, sanding, and getting the hull smooth. With his help, and his tools, she was pretty ready to paint by the end of the afternoon. Grateful for his service, I developed an enduring affection for Phil that day.
 
-[![](http://windleblo.com/wp-content/uploads/2018/06/St.-Clair-Delta-300x225.jpg)](/wp-content/uploads/2018/06/St.-Clair-Delta.jpg)
+[<!-- IMAGE PLACEHOLDER
+Original URL: http://windleblo.com/wp-content/uploads/2018/06/St.-Clair-Delta-300x225.jpg
+Filename: St.-Clair-Delta-300x225.jpg
+Date path: 2018/06/St.-Clair-Delta-300x225.jpg
+Caption: ](/wp-content/uploads/2018/06/St.-Clair-Delta.jpg)
+Instructions: Replace this comment with actual image upload
+-->
 
-St. Clair River delta sunset
+**[IMAGE MISSING: ](/wp-content/uploads/2018/06/St.-Clair-Delta.jpg)]**
+*Original filename: St.-Clair-Delta-300x225.jpg*
+
+## St. Clair River delta sunset
 
 It was Phil who took a break from painting yet another hull to stand, watch, and wave 10 days later as _Windleblo_ slipped around a bend in the Clinton River, Sailors Cove Marina receding from sight. We had finally cast off, having woken _Windleblo_ from another winter slumber. She looked good – freshly scrubbed and waxed, new curtains inside and a new mainsail to boot. We motored eight miles across a flat Lake St. Clair and into the north channel of the St. Clair River, anchoring among low islands and wetlands in the St. Clair River delta. And so our voyage began.
 
@@ -42,9 +60,18 @@ We sailed north northwest 17 nautical miles to Rattlesnake Harbor at the north e
 
 Next, it was on to a nature harbor called Snug Harbor. The entrance proved deeper than the chart led us to believe. We saw no less than 2.9 meters of water as we slowly nosed in. Once inside, a classic nature harbor was revealed. Oval shaped and 500 by 200 meters in dimension, forests lined the shore. Depths ranged from eight to 13 meters. We chose a spot deep inside the cove to drop the hook, tying a line to a tree on shore to prevent swing. On shore, a marked route led us to a small pond and a rocky promontory further along with nice views of the Georgian Bay. I cooked a tasty vegetable curry over rice for our evening meal.
 
-[![](http://windleblo.com/wp-content/uploads/2018/06/IMG_5917-300x225.jpg)](/wp-content/uploads/2018/06/IMG_5917.jpg)
+[<!-- IMAGE PLACEHOLDER
+Original URL: http://windleblo.com/wp-content/uploads/2018/06/IMG_5917-300x225.jpg
+Filename: IMG_5917-300x225.jpg
+Date path: 2018/06/IMG_5917-300x225.jpg
+Caption: ](/wp-content/uploads/2018/06/IMG_5917.jpg)
+Instructions: Replace this comment with actual image upload
+-->
 
-Morning in The Pool
+**[IMAGE MISSING: ](/wp-content/uploads/2018/06/IMG_5917.jpg)]**
+*Original filename: IMG_5917-300x225.jpg*
+
+## Morning in The Pool
 
 Twelve nautical miles, sailing the first half, motoring the second, brought us to The Pool at the end of Baie Fine, a long fjord on the north shore of Georgian Bay. Some fellow cruisers aboard _Raven_ who we met in Tobermory had recommended this stop. We were not disappointed. We found only one other boat, a 37-foot Nordic Tug named _Molly S_ , anchored in The Pool as we entered. We took a spot a respectful distance deeper in the cove beyond her in four meters depth. Besides the fantastic nature harbor, the main attraction here is a hike up to Topaz Lake nestled among impressive white granite hills rising 500 feet above The Pool. Touring The Pool in the dinghy, we hailed _Molly S_. A couple emerged from the cabin, probably in their early seventies. As we chatted, they helpfully described the route up to the lake.
 
@@ -56,9 +83,18 @@ We resolved to continue on the Topaz Lake, but by taking a circuitous route alon
 
 That’s where it happened. Leaving the knob, I chose slightly different route from John down around a cliffy area, expecting to see him on the other side. But once there, the logical route led down some more. I continued on, expecting to see him at any moment. I contoured toward where I thought he would emerge, but still the route led further. I took it, perhaps somewhat recklessly now, starting to think that perhaps it was leading further away from my hiking partner. As one step led to another, my expectations of rejoining him turned to realization that we had violated the prime rule of wilderness travel: don’t get separated!
 
-[![](http://windleblo.com/wp-content/uploads/2018/06/IMG_5928-1024x768.jpg)](/wp-content/uploads/2018/06/IMG_5928.jpg)
+[<!-- IMAGE PLACEHOLDER
+Original URL: http://windleblo.com/wp-content/uploads/2018/06/IMG_5928-1024x768.jpg
+Filename: IMG_5928-1024x768.jpg
+Date path: 2018/06/IMG_5928-1024x768.jpg
+Caption: ](/wp-content/uploads/2018/06/IMG_5928.jpg)
+Instructions: Replace this comment with actual image upload
+-->
 
-Topaz Lake
+**[IMAGE MISSING: ](/wp-content/uploads/2018/06/IMG_5928.jpg)]**
+*Original filename: IMG_5928-1024x768.jpg*
+
+## Topaz Lake
 
 I was committed now. Returning to the spot where I had last seen John would mean an uphill slog of more than a hundred vertical meters. The lake below was not that far, or at least had not seemed that far when viewed from the knob. I decided to continue on to rendezvous at the lake, considering that John was probably only a couple hundred meters across the slope to my left. Descending and contouring, I skirted cliffs and eventually found the draining leading to the lake. Following it for what seemed like way to far, I finally reached the lake. My marvel at its beauty – it was named Topaz Lake for a reason – was disrupted by the absence of my hiking partner. I worked my way all around the lake. No John.
 

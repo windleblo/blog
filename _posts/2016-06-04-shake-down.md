@@ -8,7 +8,7 @@ categories: [uncategorized]
 
 [![Windleblo being launched at South Freeport](http://windleblo.com/wp-content/uploads/2016/06/IMG_2573-300x225.jpg)](/wp-content/uploads/2016/06/IMG_2573.jpg)
 
-Windleblo being launched at South Freeport
+## Windleblo being launched at South Freeport
 
 Yesterday we took a shake down sail around Casco Bay to exercise boat and crew. All systems are now “GO” for blast off to Nova Scotia next week. Preliminary forecasts look good for crossing mid-week. My passage plan is to shove off the dock at South Freeport on Tuesday for a 40 nm day sail to Monhegan Island. We’ll tie up to a mooring there for one night, then cross 200 nm around Cape Sable and make landfall at Shelburn, NS, by the end of the day Thursday. Cross your fingers that the forecast continues to look good.
 
@@ -20,7 +20,7 @@ May 19 – Move gear onto boat (e.g., new carpet – fits great); assess head va
 
 May 20 – Prep bottom for antifouling paint application – light sanding, remove bowthruster props, remove zincs, tape waterline and fittings; engine work with Bob – check exhaust elbow and heat exchanger, remove Webasto for bench check, remove Webasto fuel filter for replacement, replace impeller
 
-May 21 – apply antifouling paint
+## May 21 – apply antifouling paint
 
 May 22 – Install bilge plug; apply second coat of antifouling paint to high need areas – bow, front of keel & rudder, water line; varnish flagstaff, washboards, companionway teak
 

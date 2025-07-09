@@ -8,7 +8,7 @@ categories: [uncategorized]
 
 [![Crossing sunrise](http://windleblo.com/wp-content/uploads/2016/08/IMG_2802-1024x768.jpg)](/wp-content/uploads/2016/08/IMG_2802.jpg)
 
-Crossing sunrise
+## Crossing sunrise
 
 Wild. Unspoiled. Beyond beyond. Stunningly beautiful.
 
@@ -20,7 +20,7 @@ We made landfall at a place called Isle aux Morts, which translates to “island
 
 [![Harvey Trail, Isle Aux Morts](http://windleblo.com/wp-content/uploads/2016/08/IMG_9326-1024x504.jpg)](/wp-content/uploads/2016/08/IMG_9326.jpg)
 
-Harvey Trail, Isle Aux Morts
+## Harvey Trail, Isle Aux Morts
 
 Not all souls perished, though, thanks to George Harvey, a 19th century Isle aux Morts fisherman who, along with his eldest daughter, Ann, and Newfoundland dog, braved cold turbulent seas to save more than 100 from watery graves. As the story goes, while his daughter rowed, he commanded his dog to take a line and swim 100 meters through the rough seas to the foundering vessel. The faithful dog returned with a heavier line, which Harvey used to bring the passengers to safety. Today, a shoreline nature walk called the Harvey Trail offers narrative and murals telling the tale.
 
@@ -36,7 +36,7 @@ The anchor spot was deep, forcing us to drop the hook in about 13 meters and bac
 
 [![Drone ready for liftoff](http://windleblo.com/wp-content/uploads/2016/08/IMG_3035-e1471800690816-225x300.jpg)](/wp-content/uploads/2016/08/IMG_3035-e1471800690816.jpg)
 
-Drone ready for liftoff
+## Drone ready for liftoff
 
 It was here at the Barasway that Andrew first launched the drone.
 
@@ -44,7 +44,7 @@ You’d expect a freshly minted Air Force guy to bring a drone on a sailing expe
 
 [![Control tablet](http://windleblo.com/wp-content/uploads/2016/08/IMG_3038-e1471800720915-225x300.jpg)](/wp-content/uploads/2016/08/IMG_3038-e1471800720915.jpg)
 
-Control tablet
+## Control tablet
 
 To get it going, Andrew unfolds the antennae, screws on the propellers, then dons the control tablet, which hangs around his neck mounted in a bracket/joystick assembly. A few pre-flight checks later, it lifts off, emitting a mosquito-like buzz as it goes. High into the sky it flies, low over the water, up and down, taking video all the while.
 
@@ -52,7 +52,7 @@ Ten minutes or so into the flight, the battery signals time is up. Andrew guides
 
 [![Drone backpack](http://windleblo.com/wp-content/uploads/2016/08/IMG_2987-e1471794943293-225x300.jpg)](/wp-content/uploads/2016/08/IMG_2987-e1471794943293.jpg)
 
-Drone backpack
+## Drone backpack
 
 Our Newfoundland expedition just became a video shoot! We now have a new mission. Mission #1: Teach Andrew how to become a cruising sailor. Mission #2: Have fun producing _Windleblo_ video. Both while cruising through some of the most spectacular scenery anywhere.
 
@@ -64,7 +64,7 @@ Our Pilot Press cruising guide book explains outports. “For years the life blo
 
 [![Grand Bruit](http://windleblo.com/wp-content/uploads/2016/08/IMG_2848-1024x768.jpg)](/wp-content/uploads/2016/08/IMG_2848.jpg)
 
-Grand Bruit
+## Grand Bruit
 
 “In the early 1950s Newfoundland’s first premier, Joey Smallwood, began to offer outport citizens incentives to relocate, primarily to reduce the cost of providing the whole range of social services to the remote settlements. The government sponsored resettlement programs implemented between 1954 and 1975 were hugely controversial.
 

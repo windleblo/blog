@@ -16,7 +16,7 @@ Warderick Wells, Exuma Keys, Bahamas.
 
 Otok Lavsa, Kornati National Park, Croatia.
 
-Rodel, Outer Hebrides, Scotland
+## Rodel, Outer Hebrides, Scotland
 
 Cala Bennires, Ibiza, Balearic Islands, Spain.
 

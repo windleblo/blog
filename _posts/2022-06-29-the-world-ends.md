@@ -18,7 +18,7 @@ Now, I have returned to the _Windleblo_ for a summer cruise just as Jocelyn and 
 
 Thirty-seven years ago today, I made Jocelyn my wife. To commemorate the occasion, today I sent Jocelyn an anniversary card. Here is the message I wrote inside:
 
-“Wife-
+## “Wife-
 
 Today is our 37th wedding anniversary and this is the anniversary card from your husband. As in past years, the salutation is simply “wife” and it is simply signed “husband.” Though that might seem impersonal, I know for you it’s unmistakable who it’s to and who it came from. For more than 36 years those terms have defined us.
 
@@ -38,6 +38,6 @@ I think of you constantly, always with love in my heart, wondering if you can fe
 
 1.4.3.
 
-Husband”
+## Husband”
 
 End Note: I grew up and learned how to sail in Cohasset, Massachusetts. Just outside Cohasset harbor is Minots Ledge. Many a ship grounded and wrecked on Minots Ledge until a lighthouse was built there in 1850. As with all lighthouses, Minots has a signature light pattern. It blinks once, then, after a pause, four times, then another pause, and finally three times. Local lore has it that the one-four-three pattern stands for I LOVE YOU. Since I’ve known her, I’ve used this shorthand in closing many notes and letters to Jocelyn.

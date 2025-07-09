@@ -6,7 +6,16 @@ author: Jack
 categories: [uncategorized]
 ---
 
-![](http://windleblo.com/wp-content/uploads/2019/06/DTEQ3573-1024x768.jpg)Special inspection while on-the-hard by Nikki Henderson
+<!-- IMAGE PLACEHOLDER
+Original URL: http://windleblo.com/wp-content/uploads/2019/06/DTEQ3573-1024x768.jpg
+Filename: DTEQ3573-1024x768.jpg
+Date path: 2019/06/DTEQ3573-1024x768.jpg
+Caption: Special inspection while on-the-hard by Nikki Henderson
+Instructions: Replace this comment with actual image upload
+-->
+
+**[IMAGE MISSING: Special inspection while on-the-hard by Nikki Henderson]**
+*Original filename: DTEQ3573-1024x768.jpg*
 
 “Ouch!” I scream as I pinch myself.
 
@@ -16,4 +25,13 @@ Hard labor this last week has primped her for the voyage and she is finally read
 
 Our shake down takes us around and through the San Juan Islands with a combination of anchorages and marina stays. We’ll spend a few nights at Roche Harbor and Deer Harbor where we’ll meet up with several of our Applewood friends who are traveling to San Juan and Orcas Islands for a Fourth of July holiday week. After, we’ll cross the border to check out Canoe Cove Marina, Sidney, BC, a leading candidate for home port once we return from the North. 
 
-![](http://windleblo.com/wp-content/uploads/2019/06/IMG_7150-1024x768.jpg)In the slings again.
+<!-- IMAGE PLACEHOLDER
+Original URL: http://windleblo.com/wp-content/uploads/2019/06/IMG_7150-1024x768.jpg
+Filename: IMG_7150-1024x768.jpg
+Date path: 2019/06/IMG_7150-1024x768.jpg
+Caption: In the slings again.
+Instructions: Replace this comment with actual image upload
+-->
+
+**[IMAGE MISSING: In the slings again.]**
+*Original filename: IMG_7150-1024x768.jpg*

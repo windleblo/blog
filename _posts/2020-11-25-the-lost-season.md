@@ -6,7 +6,16 @@ author: Jack
 categories: [uncategorized]
 ---
 
-![](http://windleblo.com/wp-content/uploads/2020/11/IMG_8262-1024x768.jpg)
+<!-- IMAGE PLACEHOLDER
+Original URL: http://windleblo.com/wp-content/uploads/2020/11/IMG_8262-1024x768.jpg
+Filename: IMG_8262-1024x768.jpg
+Date path: 2020/11/IMG_8262-1024x768.jpg
+Caption: 
+Instructions: Replace this comment with actual image upload
+-->
+
+**[IMAGE MISSING: ]**
+*Original filename: IMG_8262-1024x768.jpg*
 
 Remember 2020? A lost season best forgotten. Why? Because the Novel Coronavirus and COVID-19, the illness it causes, swept the world, putting life on hold.
 
@@ -26,7 +35,16 @@ But the more I thought about it, the more nervous I got about keeping _Windleblo
 
 On the way north, we had passed through Wrangell, just 40 nm south of Petersburg through the Wrangell Narrows. There, I had seen the Travelift and Yard and met some of the people. Though I didn’t get the same welcoming warm fuzzies as in Petersburg or Hoonah, I knew the facility was more than adequate. Plus, Wrangell is a larger town with jet service from Seattle and a fairly large fishing fleet with the attendant parts and services. I called the Wrangell harbormaster’s office. The helpful female voice on the other end assured me they would have a spot for me. I scheduled a haulout appointment with her for August 6th.
 
-![](http://windleblo.com/wp-content/uploads/2020/11/IMG_8209-1024x768.jpg)Out of the water!
+<!-- IMAGE PLACEHOLDER
+Original URL: http://windleblo.com/wp-content/uploads/2020/11/IMG_8209-1024x768.jpg
+Filename: IMG_8209-1024x768.jpg
+Date path: 2020/11/IMG_8209-1024x768.jpg
+Caption: Out of the water!
+Instructions: Replace this comment with actual image upload
+-->
+
+**[IMAGE MISSING: Out of the water!]**
+*Original filename: IMG_8209-1024x768.jpg*
 
 About a week before the trip to Petersburg, I was reviewing my notes from 2019 and noticed that John Murgas had said he would be upgrading his equipment in 2020 to be able to handle larger boats, including boats with deep bulbous keels. Almost as an afterthought, I emailed him to see if he indeed had completed the upgrade and, if so, could he now haul my boat. He responded fairly promptly, writing that he had not made the improvement but that, upon reflection, he was confident he could haul the _Windleblo_ now with his existing equipment. I asked him what had changed that gave him this confidence and he vaguely replied that he now had more experience, a response that did not give me much comfort. None-the-less, I scheduled an appointment with him to haul out at his Yard at high tide on Wednesday, August 5th. (Last year, I had vetted the suitability of his equipment with Hallberg-Rassy who assured me it was adequate to do the job.) He said they would give it a try then and would know quickly using their hydraulic trailer’s underwater camera whether it would work. I did not cancel the Wrangell appointment!
 
@@ -40,4 +58,13 @@ Looking back on the lost season, there was a small consolation. In June, Jocelyn
 
 You take what you can get.
 
-![](http://windleblo.com/wp-content/uploads/2020/11/IMG_8058-1024x768.jpg)Sailing in the Time of COVID!
+<!-- IMAGE PLACEHOLDER
+Original URL: http://windleblo.com/wp-content/uploads/2020/11/IMG_8058-1024x768.jpg
+Filename: IMG_8058-1024x768.jpg
+Date path: 2020/11/IMG_8058-1024x768.jpg
+Caption: Sailing in the Time of COVID!
+Instructions: Replace this comment with actual image upload
+-->
+
+**[IMAGE MISSING: Sailing in the Time of COVID!]**
+*Original filename: IMG_8058-1024x768.jpg*
