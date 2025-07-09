@@ -1,0 +1,71 @@
+---
+layout: post
+title: "Impressions"
+date: 2018-06-29T21:09:05-06:00
+author: Jack
+categories: [uncategorized]
+---
+
+[![](http://windleblo.com/wp-content/uploads/2018/06/IMG_5921-1024x227.jpg)](/wp-content/uploads/2018/06/IMG_5921.jpg)
+
+The view above Topaz Lake
+
+Phil is the guy who came out on Sunday to help me scrape and sand the bottom of my boat. He didn’t have to. A freelancer at Rick’s boatyard – the solitary regular as far as I could tell – he usually only works weekdays, painting boat bottoms and doing whatever yacht caretaking jobs he can scrounge up. Raised the third from the last child in a good Catholic family of 10 children, he knows hard work. “Everyone had to pull at the rope,” he told me.
+
+When he heard Rick had promised someone to help me prep my boat for antifouling, Phil knew he was overbooked the entire week I needed him. Rather than blow me off, he showed up Sunday for extra duty. We worked our asses off for four hours, scraping, sanding, and getting the hull smooth. With his help, and his tools, she was pretty ready to paint by the end of the afternoon. Grateful for his service, I developed an enduring affection for Phil that day.
+
+[![](http://windleblo.com/wp-content/uploads/2018/06/St.-Clair-Delta-300x225.jpg)](/wp-content/uploads/2018/06/St.-Clair-Delta.jpg)
+
+St. Clair River delta sunset
+
+It was Phil who took a break from painting yet another hull to stand, watch, and wave 10 days later as _Windleblo_ slipped around a bend in the Clinton River, Sailors Cove Marina receding from sight. We had finally cast off, having woken _Windleblo_ from another winter slumber. She looked good – freshly scrubbed and waxed, new curtains inside and a new mainsail to boot. We motored eight miles across a flat Lake St. Clair and into the north channel of the St. Clair River, anchoring among low islands and wetlands in the St. Clair River delta. And so our voyage began.
+
+Next day we motored against the river’s current 35 nautical miles to Sarnia, Ontario. We hugged the river’s right bank to try to stay out of the current. Canadian homes lined the shore most of the way, some more modest than others, until the last few miles where industry dominated. We tied up along the thousand-foot-long fuel dock at Bridgeview Marina. We called ahead, and the dockmaster invited us to be his guest for the night – no charge. It was good to be back in Canada.
+
+After some hellacious heat earlier in the week, which John called “Florida heat,” persistent northerlies had set in. The forecast called for a resumption of the northerlies after a short 36 hour hiatus when easterlies would blow. We were headed due north and I knew we had to take advantage of the easterlies or risk getting stuck I Sarnia for a while.
+
+What followed was a wonderful 25-hour 140 nautical mile passage from Sarnia to Tobermory, Ontario, a small tourist town on the end of the Bruce Peninsula. The winds were as predicted – 13 to 18 knots, very steady from the east and right on our beam. _Windleblo_ charged through the night hardly needing any attention. We took two hour watches through a very short night, only about six hours of overcast darkness.
+
+The Bruce Peninsula forms the southwestern shore of Georgian Bay, which forms the northern quarter of Lake Huron. We arrived at Tobermory around eight o’clock in the morning and tied to the town dock, paying $1.95 CAD per foot per night plus 13 % HST for the privilege. Our first priority was a proper British breakfast of bacon, soft boiled eggs, beans, and fried tomato, followed by some rest. When we looked around later in the morning, quite a number of people were strolling around the walkways ringing the harbor, browsing the shops and taking in the sights. Mingling among them, we noted many different ethnicities and heard many assorted languages, leading me to surmise that Tobermory was a popular vacation destination for Torontoans (ites??).
+
+We found a laundromat just steps from the dock and serviceable coffee shop with good wifi not much further on where we drank coffee while waiting for our laundry to cycle. The nearby grocery store was well stocked and after two nights rest, some walkabouts, and provisioning, we were ready to continue on.
+
+We decided to head only a few nautical miles to a nature harbor on Cove Island recommended to us by Bill and Sarah who we had met at the Tobermory Brewing Company bar. It proved to be a fine anchor spot, but getting a stretch of the legs on shore was another matter. The forest was so choked with underbrush, any hope of walking beyond the water’s edge was foolish. We settled for taking turns rowing the dinghy around as our exercise.
+
+It was at Cove Island that we got our first big impression of the fabled Canadian mosquito.
+
+Of course, we knew to deploy our bug netting shortly after arrival and well before dusk. Fortunately, Jocelyn has sewn a custom set of mosquito nets to array all around the boat, covering every hatch and opening. We carefully clipped them in place and retreated from the cockpit into the cabin as the sun got low and the bugs awoke.
+
+The veteran North Woods-er will probably laugh, but as dusk turned to night we were simply astonished by the sheer number of mosquitos accumulating on the outside of the netting over the companionway. Like Huns at the gate, hundreds – maybe thousands – waited for the chance to find a way in for a taste of human blood. A few succeeded – we weren’t sure how – and we redoubled our efforts to check the perimeter defenses. It wasn’t hot, so we closed almost all the hatches, eliminating as many points of ingress as possible. For after dinner entertainment, we tried our hand at playing cards, but mosquito swatting became the main distraction. I slept tightly wrapped in my bedding, bug helmet on, and managed to get good rest, waking with mosquitos gone and little evidence of having been bitten.
+
+We sailed north northwest 17 nautical miles to Rattlesnake Harbor at the north end of Fitzwilliam Island to pass the next evening. An abandoned lumber operation tarnished the shore. Two sunken barges, a dilapidated mobile home, several massive logging trucks, a huge open Quonset hut, and a few broken down pickups littered the immediate area. On the plus side, a large dock made dinghy landing convenient and roads cleared for lumbering provided good pathways for walking. We strolled the somewhat overgrown path, taking care to avoid the poison ivy. After a spell, a side path led to a rocky beach where large cairns had been erected, presumably by bored lumberjacks during their off time. Back on the boat later, we found the mosquitos here were not as fierce as at Cove Island, probably because we were anchored further from shore.
+
+Next, it was on to a nature harbor called Snug Harbor. The entrance proved deeper than the chart led us to believe. We saw no less than 2.9 meters of water as we slowly nosed in. Once inside, a classic nature harbor was revealed. Oval shaped and 500 by 200 meters in dimension, forests lined the shore. Depths ranged from eight to 13 meters. We chose a spot deep inside the cove to drop the hook, tying a line to a tree on shore to prevent swing. On shore, a marked route led us to a small pond and a rocky promontory further along with nice views of the Georgian Bay. I cooked a tasty vegetable curry over rice for our evening meal.
+
+[![](http://windleblo.com/wp-content/uploads/2018/06/IMG_5917-300x225.jpg)](/wp-content/uploads/2018/06/IMG_5917.jpg)
+
+Morning in The Pool
+
+Twelve nautical miles, sailing the first half, motoring the second, brought us to The Pool at the end of Baie Fine, a long fjord on the north shore of Georgian Bay. Some fellow cruisers aboard _Raven_ who we met in Tobermory had recommended this stop. We were not disappointed. We found only one other boat, a 37-foot Nordic Tug named _Molly S_ , anchored in The Pool as we entered. We took a spot a respectful distance deeper in the cove beyond her in four meters depth. Besides the fantastic nature harbor, the main attraction here is a hike up to Topaz Lake nestled among impressive white granite hills rising 500 feet above The Pool. Touring The Pool in the dinghy, we hailed _Molly S_. A couple emerged from the cabin, probably in their early seventies. As we chatted, they helpfully described the route up to the lake.
+
+A good sleep and hearty breakfast prepared us for our excursion. We packed baloney sandwiches and apples for lunch and set out, remembering to take our bug goop just in case. After a short steadily rising hike up a well-worn ATV path, a sign pointed left up a side trail to Topaz Lake. We opted to continue along the main trail, reasoning that we needed more exercise to earn the reward of a swim in the lake. Three hundred meters later, the trail topped out in a saddle between two of the granite hills. The woman on _Molly S_ had told us the path led to another lake a mile or so further and served as a portage route between lakes for canoe travelers.
+
+Rather than descend toward the next lake, we veered west off the trail, bushwhacking up the rock strewn slope, seeking higher ground. Something about living in Colorado so long, we yearned to be on top of the highest spot around so we could survey our surroundings. Unlike Cove Island, the woods here were not too thick and we made good headway, despite the occasional scramble up the steepening rock strewn slope. Deadfall, pine needles, and loose moss sometimes made the footing unstable requiring extra care. The trees thinned as we emerged on top of a granite knob after a 30-minute climb. The views were quite brilliant in all directions.
+
+We resolved to continue on the Topaz Lake, but by taking a circuitous route along a knobby ridge ringing the lake. A freshening west wind kept the bugs at bay. A descent to a saddle was followed by a steep climb to the next knob and more views. We picked our way, scrambles across rocky slopes and around cliffs alternating with easier walks through forested saddles. We consumed our lunch on one of the knobs, fortifying our exertions. Eventually, we reached the last knob before the descent to Topaz Lake.
+
+That’s where it happened. Leaving the knob, I chose slightly different route from John down around a cliffy area, expecting to see him on the other side. But once there, the logical route led down some more. I continued on, expecting to see him at any moment. I contoured toward where I thought he would emerge, but still the route led further. I took it, perhaps somewhat recklessly now, starting to think that perhaps it was leading further away from my hiking partner. As one step led to another, my expectations of rejoining him turned to realization that we had violated the prime rule of wilderness travel: don’t get separated!
+
+[![](http://windleblo.com/wp-content/uploads/2018/06/IMG_5928-1024x768.jpg)](/wp-content/uploads/2018/06/IMG_5928.jpg)
+
+Topaz Lake
+
+I was committed now. Returning to the spot where I had last seen John would mean an uphill slog of more than a hundred vertical meters. The lake below was not that far, or at least had not seemed that far when viewed from the knob. I decided to continue on to rendezvous at the lake, considering that John was probably only a couple hundred meters across the slope to my left. Descending and contouring, I skirted cliffs and eventually found the draining leading to the lake. Following it for what seemed like way to far, I finally reached the lake. My marvel at its beauty – it was named Topaz Lake for a reason – was disrupted by the absence of my hiking partner. I worked my way all around the lake. No John.
+
+I waited. Waited some more. No John. I thought perhaps he had been here and gone. Our secondary rendezvous would surely be the dinghy dock back at the edge of The Pool. The problem was, though I had walked all around the circumference of the lake, I could find no trail. Knowing The Pool was less than a mile to the south, I used my compass to confirm the lake’s outlet stream descended that direction. I followed it. About a thousand meters of descent found me at the edge of the water, but a half a mile to the west of the dinghy dock. I worked my way along the shore, eventually emerging, exhausted, at the dock. No John.
+
+Again, I waited. This time, about 30 minutes later, John appeared from the main trail, emergency whistle hanging from a lanyard around his neck. He smiled when he saw me, relieved that I was all right. I responded in kind. He reported his own circuitous route, ending up far to the east at another lake where canoeists cavorted. They pointed him toward the Topaz Lake trail which led finally back to the dinghy dock. He had missed Topaz Lake entirely.
+
+We shared some nervous laughs about our travails, relieved that all had ended happily. Returning to the _Windleblo_ , we poured some Scotch to dull our aching muscles and jangled nerves, ate a Mustgo dinner, and watched a _The Big Lebowski_ , John’s first time seeing it.
+
+Tomorrow, we sail to Little Current.
