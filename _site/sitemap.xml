@@ -428,6 +428,9 @@
 <loc>http://0.0.0.0:4000/about/</loc>
 </url>
 <url>
+<loc>http://0.0.0.0:4000/archives/</loc>
+</url>
+<url>
 <loc>http://0.0.0.0:4000/contact/</loc>
 </url>
 <url>

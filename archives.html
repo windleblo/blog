@@ -1,0 +1,84 @@
+---
+layout: default
+title: Archives
+permalink: /archives/
+---
+
+<div class="archive-page">
+  <h1>All Posts</h1>
+  
+  {% assign posts_by_year = site.posts | group_by_exp: "post", "post.date | date: '%Y'" | sort: "name" | reverse %}
+  
+  {% for year in posts_by_year %}
+    <h2 class="archive-year">{{ year.name }}</h2>
+    
+    {% assign posts_by_month = year.items | group_by_exp: "post", "post.date | date: '%B %Y'" | sort: "name" | reverse %}
+    
+    {% for month in posts_by_month %}
+      <h3 class="archive-month">{{ month.name }}</h3>
+      
+      <ul class="archive-posts">
+        {% for post in month.items %}
+          <li class="archive-post">
+            <span class="archive-date">{{ post.date | date: "%B %-d" }}</span>
+            <a href="{{ post.url | relative_url }}" class="archive-link">{{ post.title | escape }}</a>
+          </li>
+        {% endfor %}
+      </ul>
+    {% endfor %}
+  {% endfor %}
+</div>
+
+<style>
+.archive-page {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 0 60px;
+}
+
+.archive-year {
+  font-size: 1.8em;
+  margin-top: 2em;
+  margin-bottom: 0.5em;
+  color: #333;
+  border-bottom: 2px solid #eee;
+  padding-bottom: 0.2em;
+}
+
+.archive-month {
+  font-size: 1.3em;
+  margin-top: 1.5em;
+  margin-bottom: 0.5em;
+  color: #666;
+}
+
+.archive-posts {
+  list-style: none;
+  padding: 0;
+  margin-bottom: 1.5em;
+}
+
+.archive-post {
+  margin-bottom: 0.5em;
+  padding: 0.3em 0;
+  border-bottom: 1px solid #f5f5f5;
+}
+
+.archive-date {
+  display: inline-block;
+  width: 80px;
+  font-size: 0.9em;
+  color: #999;
+  margin-right: 1em;
+}
+
+.archive-link {
+  text-decoration: none;
+  color: #0066cc;
+  font-weight: 500;
+}
+
+.archive-link:hover {
+  text-decoration: underline;
+}
+</style>
