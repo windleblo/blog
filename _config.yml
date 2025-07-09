@@ -1,0 +1,66 @@
+# Site settings
+title: Windleblo
+tagline: The cruising blog for S/V Windleblo, a Hallberg-Rassy 40
+description: > 
+  The cruising blog for S/V Windleblo, a Hallberg-Rassy 40. Follow our sailing adventures 
+  from the Atlantic to the Pacific and beyond.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://windleblo.com" # the base hostname & protocol for your site
+author: Jack
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Permalink structure to match original site
+permalink: /blog/:year/:month/:day/:title/
+
+# Collections
+collections:
+  posts:
+    output: true
+    permalink: /blog/:year/:month/:day/:title/
+
+# Pagination
+paginate: 10
+paginate_path: "/page:num/"
+
+# Exclude from build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - CLAUDE.md
+  - README.md
+
+# Markdown settings
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+
+# Default values
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "Jack"
+      
+# RSS feed settings
+feed:
+  posts_limit: 20
