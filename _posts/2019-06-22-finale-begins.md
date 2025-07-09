@@ -14,9 +14,6 @@ Caption: Special inspection while on-the-hard by Nikki Henderson
 Instructions: Replace this comment with actual image upload
 -->
 
-**[IMAGE MISSING: Special inspection while on-the-hard by Nikki Henderson]**
-*Original filename: DTEQ3573-1024x768.jpg*
-
 “Ouch!” I scream as I pinch myself.
 
 I still can’t believe we are about to splash _Windleblo_ into the Salish Sea for the final season of the ten year mission to sail from Sweden to Alaska. Like Christmas, it seemed it would never arrive, but here we are.

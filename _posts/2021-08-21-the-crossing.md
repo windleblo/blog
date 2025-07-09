@@ -20,9 +20,6 @@ Caption: Sunrise off the top of Vancouver Island
 Instructions: Replace this comment with actual image upload
 -->
 
-**[IMAGE MISSING: Sunrise off the top of Vancouver Island]**
-*Original filename: IMG_2231-scaled.jpg*
-
 We needed crazy voyage names to make things easier. John Renna would now be known as John Reno, or Reno for short. John Hoopes would become Johnny Donut, an internet alias he has occasionally used as a riff on John Doe. I would go by Cap, short for captain. (Not that cray cray, I know, but what can I say?)
 
 As usual, the wind made the decision easy on when to go. A five-day weather window would open starting the day after the new crew’s arrival, just long enough for the 600-nautical-mile passage to Port Townsend, Washington. After a day or so of light wind, moderate to strong breezes would line up behind the beam the rest of the way. Perfect! Then the window would slam shut with southerlies and snotty weather returning to Southeast Alaska and the BC coast.
@@ -41,9 +38,6 @@ Caption: Leaving Dall Bay
 Instructions: Replace this comment with actual image upload
 -->
 
-**[IMAGE MISSING: Leaving Dall Bay]**
-*Original filename: IMG_1790-1024x768.jpg*
-
 Before shoving off, I assigned tasks to the crew to help them get oriented. They performed a rig check, inspected and familiarized themselves with their PFDs, and identified the location of all the fire extinguishers and bilge pumps on board. We then met in the cockpit to talk about what they found and review the weather forecast and passage plan. I emphasized three personal responsibilities to promote a successful crossing – nutrition, hydration, and prostration; if each of us made sure to keep ourselves nourished, hydrated, and well-rested, the chances of our success would go up. After then talking about the sequence for casting off, we left the dock close to 5 pm.
 
 Rather than blast off right away, I thought it best to give the crew a night swinging at anchor. Thirteen nautical miles south of Ketchikan, we entered Dall Bay and proceeded to a quiet cove at the head of the bay. A whale greeted us as she fed at the cove’s mouth and bald eagles circled overhead, a fitting finale for our time in Alaska. _Windleblo_ swung serenely at anchor through the night, rock solid as we slumbered.
@@ -55,9 +49,6 @@ Date path: 2021/08/DSC_0059-1024x678.jpg
 Caption: Croatian brandy offering to Neptune
 Instructions: Replace this comment with actual image upload
 -->
-
-**[IMAGE MISSING: Croatian brandy offering to Neptune]**
-*Original filename: DSC_0059-1024x678.jpg*
 
 Before weighing anchor the next morning, we gathered on the foredeck at 0600 to petition Neptune for a safe crossing. Reno led the recitations, entreating the seven directions on our behalf. A dram of Croatian brandy went to Neptune, along with a dram each down our gullets.
 
@@ -73,9 +64,6 @@ Caption: One of many logs we dodged in Hecate Strait
 Instructions: Replace this comment with actual image upload
 -->
 
-**[IMAGE MISSING: One of many logs we dodged in Hecate Strait]**
-*Original filename: IMG_2219-1024x768.jpg*
-
 Early on Day Two, August 1, 2021, I noticed an error code on the Mastervolt battery monitor indicating that the batteries were overheating. As a precaution, the monitor had automatically interrupted charging. Immediately, I switched off the engine and investigated. Thankfully the wind was starting to fill in behind us and we continued to make decent way under sail. Exposing the battery box confirmed the error code. The batteries were indeed very hot to the touch. I increased ventilation to the box and vowed to keep the engine switched off as much as possible the rest of the way, operating only enough to maintain charge once the batteries cooled. I already knew the batteries were on their last legs; this added greater impetus to replace them ASAP.
 
 <!-- IMAGE PLACEHOLDER
@@ -85,9 +73,6 @@ Date path: 2021/08/IMG_1882-768x1024.jpg
 Caption: Enchiladas for dinner courtesy of Johnny Reno
 Instructions: Replace this comment with actual image upload
 -->
-
-**[IMAGE MISSING: Enchiladas for dinner courtesy of Johnny Reno]**
-*Original filename: IMG_1882-768x1024.jpg*
 
 It was easy to tell when we left Hecate Strait. Deep blue water and steady one meter swell on our starboard quarter told us we were entering open ocean. A cloudless sky completed the blue panorama. Fifty nautical miles offshore now, we were as far from land as this crossing would take us. A consistent ten to twelve knots of wind slightly behind the starboard beam allowed us to break out the gennaker and bust along at seven knots through the water. Life was very good indeed. Fish chowder for dinner took top honors as the best meal of the passage. At midnight, the milky way was stunningly vivid, punctuated occasionally by shooting stars. A waxing gibbous moon rose as a crescent shining over the wee-est hours before dawn.
 
@@ -103,9 +88,6 @@ Caption: Deck work preparing for the gale
 Instructions: Replace this comment with actual image upload
 -->
 
-**[IMAGE MISSING: Deck work preparing for the gale]**
-*Original filename: IMG_2233-768x1024.jpg*
-
 By mid-afternoon, the promised winds began to build. I thought about shrinking the sails down as the winds rose, but then decided to break out the staysail from deep in the hold. It had not seen daylight for several seasons and needed airing out. As the sun set, we secured the removable stay to the strong point in the middle of the foredeck, furled the genoa, reefed the main, and hanked on the staysail. Tidying up below secured anything loose. We were ready for the gale.
 
 Two-meter breaking waves on our starboard quarter shoved the transom around. The winds rose steadily as night fell and brilliant stars emerged. We rotated through our watchkeeping schedule. By morning, it was clear we had dodged a bullet. The highest observed gust was only in the high twenties, the seas moderate. As daylight took hold, we put away the staysail, raised the whisker pole, and went back to wing-on-wing. Gawking at the glory of the Vancouver Island mountain landscape to port, we cursed COVID for frustrating our intentions to explore this coast.
@@ -120,9 +102,6 @@ Caption: Fog in the Straits of Juan de Fuca
 Instructions: Replace this comment with actual image upload
 -->
 
-**[IMAGE MISSING: Fog in the Straits of Juan de Fuca]**
-*Original filename: IMG_2218-1024x768.jpg*
-
 Our fourth night at sea began shrouded in fog. Initially motoring, the wind returned, again right behind us. We had kept the whisker pole up, so it was a simple matter of unfurling the genoa to resume sailing. At the 1 am watch change, we furled the headsail, jibed the boat, and turned ninety degrees to starboard to cross the Traffic Separation Scheme at a right angle. Once across, we turned downwind and resumed our easterly heading, now under full sail with a fresh breeze. As day broke, fog returned. Port Townsend lay just ahead.
 
 Rounding Point Wilson, we entered Port Townsend as the fog burned off. Hailing the port authorities, we were assigned slip C178 in the Boat Haven. Bright blue sky greeted us as we glided into the slip, our voyage complete.
@@ -134,9 +113,6 @@ Date path: 2021/08/IMG_2257-1-1024x769.jpg
 Caption: Victory beers in Port Townsend!
 Instructions: Replace this comment with actual image upload
 -->
-
-**[IMAGE MISSING: Victory beers in Port Townsend!]**
-*Original filename: IMG_2257-1-1024x769.jpg*
 
 A jubilating giddiness enveloped the crew as we relished our accomplishment. Five days at sea and the boat had been moved from its Alaskan adventure ground to its new home waters. We could now relax, knowing our goal was reached. Next was food, beers, hot showers, and sleep.
 

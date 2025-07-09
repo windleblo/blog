@@ -26,9 +26,6 @@ Caption:
 Instructions: Replace this comment with actual image upload
 -->
 
-**[IMAGE MISSING: ]**
-*Original filename: R2AK_FullCourse_Map_new-427x1024.jpg*
-
 ## ++++++++++++
 
 The Race to Alaska is put on each year by the [Northwest Maritime Center](https://web.archive.org/web/20240620074654/http://www.nwmaritime.org/), a 501(c)(3) non-profit based in Port Townsend, Washington. The Center mission? To engage people in the waters of our world in a spirit of adventure and discovery.
@@ -47,9 +44,6 @@ Caption: The winning boat approaches the dock in Ketchikan
 Instructions: Replace this comment with actual image upload
 -->
 
-**[IMAGE MISSING: The winning boat approaches the dock in Ketchikan]**
-*Original filename: IMG_0969-scaled.jpg*
-
 Now came the real Type 2 fun.
 
 Stage Two is a 710-nautical-mile test of skill and stamina through some of the world’s trickiest waters. With no official course and only one required waypoint, racers choose their own way north. To start, most opt to go inside Vancouver Island to avoid foul winds and waves on the island’s west coast. This year was no exception.
@@ -65,9 +59,6 @@ Date path: 2023/06/IMG_1030-768x1024.jpg
 Caption: Team banner: We Brake for Whales
 Instructions: Replace this comment with actual image upload
 -->
-
-**[IMAGE MISSING: Team banner: We Brake for Whales]**
-*Original filename: IMG_1030-768x1024.jpg*
 
 Northwest winds set in as the racers emerged from the protected waters behind Vancouver Island. Forecast to build over the next few days, it quickly became clear the conditions would work in Gray Wolf’s favor.
 
@@ -91,9 +82,6 @@ Caption: The victor’s reception
 Instructions: Replace this comment with actual image upload
 -->
 
-**[IMAGE MISSING: The victor’s reception]**
-*Original filename: GFGW4945-768x1024.jpg*
-
 <!-- IMAGE PLACEHOLDER
 Original URL: http://windleblo.com/wp-content/uploads/2023/06/HSWK9409-1-1024x768.jpg
 Filename: HSWK9409-1-1024x768.jpg
@@ -101,9 +89,6 @@ Date path: 2023/06/HSWK9409-1-1024x768.jpg
 Caption: Trumpeting a victorious arrival
 Instructions: Replace this comment with actual image upload
 -->
-
-**[IMAGE MISSING: Trumpeting a victorious arrival]**
-*Original filename: HSWK9409-1-1024x768.jpg*
 
 <!-- IMAGE PLACEHOLDER
 Original URL: http://windleblo.com/wp-content/uploads/2023/06/IMG_0982-scaled.jpg
@@ -113,9 +98,6 @@ Caption: First step onto the dock for the victorious crew
 Instructions: Replace this comment with actual image upload
 -->
 
-**[IMAGE MISSING: First step onto the dock for the victorious crew]**
-*Original filename: IMG_0982-scaled.jpg*
-
 <!-- IMAGE PLACEHOLDER
 Original URL: http://windleblo.com/wp-content/uploads/2023/06/IMG_0984-1-scaled.jpg
 Filename: IMG_0984-1-scaled.jpg
@@ -123,9 +105,6 @@ Date path: 2023/06/IMG_0984-1-scaled.jpg
 Caption: Ringing the victory bell
 Instructions: Replace this comment with actual image upload
 -->
-
-**[IMAGE MISSING: Ringing the victory bell]**
-*Original filename: IMG_0984-1-scaled.jpg*
 
 <!-- IMAGE PLACEHOLDER
 Original URL: http://windleblo.com/wp-content/uploads/2023/06/IMG_1009-1024x768.jpg
@@ -135,9 +114,6 @@ Caption: The pedal prop mounts on the transom
 Instructions: Replace this comment with actual image upload
 -->
 
-**[IMAGE MISSING: The pedal prop mounts on the transom]**
-*Original filename: IMG_1009-1024x768.jpg*
-
 <!-- IMAGE PLACEHOLDER
 Original URL: http://windleblo.com/wp-content/uploads/2023/06/IMG_1050-768x1024.jpg
 Filename: IMG_1050-768x1024.jpg
@@ -145,9 +121,6 @@ Date path: 2023/06/IMG_1050-768x1024.jpg
 Caption: Nikki with her $10,000 prize
 Instructions: Replace this comment with actual image upload
 -->
-
-**[IMAGE MISSING: Nikki with her $10,000 prize]**
-*Original filename: IMG_1050-768x1024.jpg*
 
 <!-- IMAGE PLACEHOLDER
 Original URL: http://windleblo.com/wp-content/uploads/2023/06/PHOTO-2023-06-08-18-47-02_1-768x1024.jpg
@@ -157,9 +130,6 @@ Caption: Southerly breezes propel S/V Windleblo northward in Queen Charlotte Sou
 Instructions: Replace this comment with actual image upload
 -->
 
-**[IMAGE MISSING: Southerly breezes propel S/V Windleblo northward in Queen Charlotte Sound]**
-*Original filename: PHOTO-2023-06-08-18-47-02_1-768x1024.jpg*
-
 <!-- IMAGE PLACEHOLDER
 Original URL: http://windleblo.com/wp-content/uploads/2023/06/PHOTO-2023-06-08-18-47-01_2-1024x768.jpg
 Filename: PHOTO-2023-06-08-18-47-01_2-1024x768.jpg
@@ -168,9 +138,6 @@ Caption: Typical scenery, Kynoch Inlet, Fjordlland Recreational Area
 Instructions: Replace this comment with actual image upload
 -->
 
-**[IMAGE MISSING: Typical scenery, Kynoch Inlet, Fjordlland Recreational Area]**
-*Original filename: PHOTO-2023-06-08-18-47-01_2-1024x768.jpg*
-
 <!-- IMAGE PLACEHOLDER
 Original URL: http://windleblo.com/wp-content/uploads/2023/06/PHOTO-2023-06-08-18-47-02-768x1024.jpg
 Filename: PHOTO-2023-06-08-18-47-02-768x1024.jpg
@@ -178,9 +145,6 @@ Date path: 2023/06/PHOTO-2023-06-08-18-47-02-768x1024.jpg
 Caption: Southeast Alaska fashion in June
 Instructions: Replace this comment with actual image upload
 -->
-
-**[IMAGE MISSING: Southeast Alaska fashion in June]**
-*Original filename: PHOTO-2023-06-08-18-47-02-768x1024.jpg*
 
 <!-- IMAGE PLACEHOLDER
 Original URL: http://windleblo.com/wp-content/uploads/2023/06/PHOTO-2023-06-08-18-47-01-768x1024.jpg

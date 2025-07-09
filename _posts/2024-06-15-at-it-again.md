@@ -14,9 +14,6 @@ Caption:
 Instructions: Replace this comment with actual image upload
 -->
 
-**[IMAGE MISSING: ]**
-*Original filename: 20240612_131414-1024x1024.jpg*
-
 We’re cruising north again aboard the _Windleblo_ , this time intending to circumnavigate Vancouver Island in six or seven weeks. We is me, Christine, and Frida, the 2024 crew. We drove _Windleblo_ out of her Canoe Cove berth June 3rd after a spring commissioning sequence that included standing rigging replacement and a new Starlink antenna clamped to the wind generator mast.
 
 Six days and three stops later we were ready to transit the Seymour Narrows and begin our cruising in earnest. We’re now anchored on the north side of Broughton Island in a remote cove near the Broughton Lagoon, a brackish lake that requires navigation of tidal rapids to enter by dinghy.

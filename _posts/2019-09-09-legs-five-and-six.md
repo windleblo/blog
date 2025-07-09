@@ -14,9 +14,6 @@ Caption: Stunning glaciers above Petersburg
 Instructions: Replace this comment with actual image upload
 -->
 
-**[IMAGE MISSING: Stunning glaciers above Petersburg]**
-*Original filename: image1-2-1024x768.jpeg*
-
 I know, I know.
 
 “What’s with Leg Five? And Leg Six for that matter?” you ask. ”The cruising plan you posted on the blog stops at Leg Four!”

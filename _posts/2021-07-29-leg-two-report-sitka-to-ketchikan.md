@@ -20,9 +20,6 @@ Caption: Alongside the Warm Springs dock
 Instructions: Replace this comment with actual image upload
 -->
 
-**[IMAGE MISSING: Alongside the Warm Springs dock]**
-*Original filename: IMG_2545-1024x768.jpg*
-
 <!-- IMAGE PLACEHOLDER
 Original URL: http://windleblo.com/wp-content/uploads/2021/07/IMG_2549-1024x768.jpg
 Filename: IMG_2549-1024x768.jpg
@@ -30,9 +27,6 @@ Date path: 2021/07/IMG_2549-1024x768.jpg
 Caption: Ahhhh…bathhouse near the dock at Warm Springs
 Instructions: Replace this comment with actual image upload
 -->
-
-**[IMAGE MISSING: Ahhhh…bathhouse near the dock at Warm Springs]**
-*Original filename: IMG_2549-1024x768.jpg*
 
 <!-- IMAGE PLACEHOLDER
 Original URL: http://windleblo.com/wp-content/uploads/2021/07/IMG_2586-768x1024.jpg
@@ -42,9 +36,6 @@ Caption: The boardwalk to the hot springs
 Instructions: Replace this comment with actual image upload
 -->
 
-**[IMAGE MISSING: The boardwalk to the hot springs]**
-*Original filename: IMG_2586-768x1024.jpg*
-
 <!-- IMAGE PLACEHOLDER
 Original URL: http://windleblo.com/wp-content/uploads/2021/07/IMG_2568-1024x768.jpg
 Filename: IMG_2568-1024x768.jpg
@@ -52,9 +43,6 @@ Date path: 2021/07/IMG_2568-1024x768.jpg
 Caption: Hot springs pool
 Instructions: Replace this comment with actual image upload
 -->
-
-**[IMAGE MISSING: Hot springs pool]**
-*Original filename: IMG_2568-1024x768.jpg*
 
 <!-- IMAGE PLACEHOLDER
 Original URL: http://windleblo.com/wp-content/uploads/2021/07/IMG_2560-1024x768.jpg
@@ -64,9 +52,6 @@ Caption: Cold plunge in Baranof Lake
 Instructions: Replace this comment with actual image upload
 -->
 
-**[IMAGE MISSING: Cold plunge in Baranof Lake]**
-*Original filename: IMG_2560-1024x768.jpg*
-
 <!-- IMAGE PLACEHOLDER
 Original URL: http://windleblo.com/wp-content/uploads/2021/07/IMG_2605-768x1024.jpg
 Filename: IMG_2605-768x1024.jpg
@@ -74,9 +59,6 @@ Date path: 2021/07/IMG_2605-768x1024.jpg
 Caption: Mossy hike on Coronation Island
 Instructions: Replace this comment with actual image upload
 -->
-
-**[IMAGE MISSING: Mossy hike on Coronation Island]**
-*Original filename: IMG_2605-768x1024.jpg*
 
 <!-- IMAGE PLACEHOLDER
 Original URL: http://windleblo.com/wp-content/uploads/2021/07/IMG_2615-768x1024.jpg
@@ -86,9 +68,6 @@ Caption: Wing on wing heading north up Sumner Strait
 Instructions: Replace this comment with actual image upload
 -->
 
-**[IMAGE MISSING: Wing on wing heading north up Sumner Strait]**
-*Original filename: IMG_2615-768x1024.jpg*
-
 <!-- IMAGE PLACEHOLDER
 Original URL: http://windleblo.com/wp-content/uploads/2021/07/IMG_2628-768x1024.jpg
 Filename: IMG_2628-768x1024.jpg
@@ -96,9 +75,6 @@ Date path: 2021/07/IMG_2628-768x1024.jpg
 Caption: Community skiff repair dock in Point Baker, a small fishing village on the northwest tip of Prince of Wales Island
 Instructions: Replace this comment with actual image upload
 -->
-
-**[IMAGE MISSING: Community skiff repair dock in Point Baker, a small fishing village on the northwest tip of Prince of Wales Island]**
-*Original filename: IMG_2628-768x1024.jpg*
 
 <!-- IMAGE PLACEHOLDER
 Original URL: http://windleblo.com/wp-content/uploads/2021/07/IMG_9482-scaled.jpg
@@ -108,9 +84,6 @@ Caption: Looking out the port hole at our fishing boat neighbors in Casey Moran 
 Instructions: Replace this comment with actual image upload
 -->
 
-**[IMAGE MISSING: Looking out the port hole at our fishing boat neighbors in Casey Moran harbor, Ketchikan]**
-*Original filename: IMG_9482-scaled.jpg*
-
 <!-- IMAGE PLACEHOLDER
 Original URL: http://windleblo.com/wp-content/uploads/2021/07/IMG_9477-768x1024.jpg
 Filename: IMG_9477-768x1024.jpg
@@ -118,9 +91,6 @@ Date path: 2021/07/IMG_9477-768x1024.jpg
 Caption: Deer Mountain trail near Ketchikan. We climbed from sea level to 1,500 feet.
 Instructions: Replace this comment with actual image upload
 -->
-
-**[IMAGE MISSING: Deer Mountain trail near Ketchikan. We climbed from sea level to 1,500 feet.]**
-*Original filename: IMG_9477-768x1024.jpg*
 
 <!-- IMAGE PLACEHOLDER
 Original URL: http://windleblo.com/wp-content/uploads/2021/07/IMG_2585-768x1024.jpg
@@ -130,9 +100,6 @@ Caption: Temperate rain forest vegetation alongside the trail
 Instructions: Replace this comment with actual image upload
 -->
 
-**[IMAGE MISSING: Temperate rain forest vegetation alongside the trail]**
-*Original filename: IMG_2585-768x1024.jpg*
-
 <!-- IMAGE PLACEHOLDER
 Original URL: http://windleblo.com/wp-content/uploads/2021/07/IMG_2678-scaled.jpg
 Filename: IMG_2678-scaled.jpg
@@ -140,9 +107,6 @@ Date path: 2021/07/IMG_2678-scaled.jpg
 Caption: Looking upslope, Deer Mountain trail
 Instructions: Replace this comment with actual image upload
 -->
-
-**[IMAGE MISSING: Looking upslope, Deer Mountain trail]**
-*Original filename: IMG_2678-scaled.jpg*
 
 <!-- IMAGE PLACEHOLDER
 Original URL: http://windleblo.com/wp-content/uploads/2021/07/IMG_9496-768x1024.jpg
@@ -152,9 +116,6 @@ Caption: Steps on a drizzly night leading down to the Married Man’s Trail, Ket
 Instructions: Replace this comment with actual image upload
 -->
 
-**[IMAGE MISSING: Steps on a drizzly night leading down to the Married Man’s Trail, Ketchikan]**
-*Original filename: IMG_9496-768x1024.jpg*
-
 <!-- IMAGE PLACEHOLDER
 Original URL: http://windleblo.com/wp-content/uploads/2021/07/IMG_2661-scaled.jpg
 Filename: IMG_2661-scaled.jpg
@@ -162,9 +123,6 @@ Date path: 2021/07/IMG_2661-scaled.jpg
 Caption: Pilings holding up one of Ketchikan’s best watering holes at low tide. Viewed from the Casey Moran docks.
 Instructions: Replace this comment with actual image upload
 -->
-
-**[IMAGE MISSING: Pilings holding up one of Ketchikan’s best watering holes at low tide. Viewed from the Casey Moran docks.]**
-*Original filename: IMG_2661-scaled.jpg*
 
 <!-- IMAGE PLACEHOLDER
 Original URL: http://windleblo.com/wp-content/uploads/2021/07/IMG_2657-scaled.jpg
@@ -174,9 +132,6 @@ Caption: One of many fish restaurants, Ketchikan
 Instructions: Replace this comment with actual image upload
 -->
 
-**[IMAGE MISSING: One of many fish restaurants, Ketchikan]**
-*Original filename: IMG_2657-scaled.jpg*
-
 <!-- IMAGE PLACEHOLDER
 Original URL: http://windleblo.com/wp-content/uploads/2021/07/IMG_9478-1-1024x768.jpg
 Filename: IMG_9478-1-1024x768.jpg
@@ -184,9 +139,6 @@ Date path: 2021/07/IMG_9478-1-1024x768.jpg
 Caption: The first post-COVID cruise ship to visit Ketchikan. Notice the paddleboarder in front of the ship.
 Instructions: Replace this comment with actual image upload
 -->
-
-**[IMAGE MISSING: The first post-COVID cruise ship to visit Ketchikan. Notice the paddleboarder in front of the ship.]**
-*Original filename: IMG_9478-1-1024x768.jpg*
 
 All in all, a very fun successful cruise.
 

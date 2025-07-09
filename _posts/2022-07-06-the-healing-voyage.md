@@ -58,9 +58,6 @@ Caption: Skipper and mascot upon tying up at Royal Vancouver Yacht Club
 Instructions: Replace this comment with actual image upload
 -->
 
-**[IMAGE MISSING: Skipper and mascot upon tying up at Royal Vancouver Yacht Club]**
-*Original filename: IMG_0346-1024x768.jpeg*
-
 So the Healing Voyage has begun. On July 4th, my crew and I set sail from Canoe Cove Marina, North Saanich, British Columbia. The crew consists of myself as skipper, my brother Bill as first mate, and my dog Frida as mascot.
 
 Our loose cruising plan is to head north and possibly circumnavigate Vancouver Island. Our first sail took us about 40 nautical miles north to a berth in the Royal Vancouver Yacht Club at Coal Harbour, right in downtown Vancouver.
