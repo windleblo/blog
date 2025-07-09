@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://0.0.0.0:4000/blog/2010/04/01/spring-has-sprung/</loc>
+<lastmod>2010-04-01T19:00:00+00:00</lastmod>
+</url>
+<url>
 <loc>http://0.0.0.0:4000/blog/2015/02/26/test-post/</loc>
 <lastmod>2015-02-26T02:41:47+00:00</lastmod>
 </url>
