@@ -10,6 +10,8 @@
   <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ '/feed.xml' | relative_url }}">
   
+  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+  
   {% seo %}
 </head>
 <body>
@@ -40,5 +42,17 @@
       <p>&copy; {{ 'now' | date: '%Y' }} {{ site.title }}</p>
     </div>
   </footer>
+  
+  <script>
+    if (window.netlifyIdentity) {
+      window.netlifyIdentity.on("init", user => {
+        if (!user) {
+          window.netlifyIdentity.on("login", () => {
+            document.location.href = "/admin/";
+          });
+        }
+      });
+    }
+  </script>
 </body>
 </html>

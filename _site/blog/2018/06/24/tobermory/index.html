@@ -10,6 +10,8 @@
   <link rel="stylesheet" href="/assets/css/custom.css">
   <link rel="alternate" type="application/rss+xml" title="Windleblo" href="/feed.xml">
   
+  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+  
   <!-- Begin Jekyll SEO tag v2.8.0 -->
 <title>Tobermory | Windleblo</title>
 <meta name="generator" content="Jekyll v4.3.4" />
@@ -110,5 +112,17 @@
       <p>&copy; 2025 Windleblo</p>
     </div>
   </footer>
+  
+  <script>
+    if (window.netlifyIdentity) {
+      window.netlifyIdentity.on("init", user => {
+        if (!user) {
+          window.netlifyIdentity.on("login", () => {
+            document.location.href = "/admin/";
+          });
+        }
+      });
+    }
+  </script>
 </body>
 </html>
