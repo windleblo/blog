@@ -70,6 +70,31 @@ class BlogspotMigrator:
             return f"{year}-{month}-01"  # Default to 1st of month
         return None
     
+    def extract_better_date(self, html_content, fallback_date):
+        """Try to extract a more specific date from the post HTML"""
+        # Look for published date in meta tags or structured data
+        patterns = [
+            r'<meta[^>]*property=["\']article:published_time["\'][^>]*content=["\']([^"\']+)["\']',
+            r'<time[^>]*datetime=["\']([^"\']+)["\']',
+            r'<abbr[^>]*class=["\']published["\'][^>]*title=["\']([^"\']+)["\']'
+        ]
+        
+        for pattern in patterns:
+            match = re.search(pattern, html_content, re.IGNORECASE)
+            if match:
+                date_str = match.group(1)
+                try:
+                    # Try to parse the date
+                    if 'T' in date_str:
+                        parsed_date = datetime.fromisoformat(date_str.replace('Z', '+00:00'))
+                    else:
+                        parsed_date = datetime.strptime(date_str, '%Y-%m-%d')
+                    return parsed_date.strftime('%Y-%m-%d')
+                except:
+                    continue
+        
+        return fallback_date
+    
     def extract_post_slug(self, url):
         """Extract slug from URL"""
         return url.split('/')[-1].replace('.html', '')
@@ -91,6 +116,8 @@ class BlogspotMigrator:
             
             # Remove " - Windleblo" suffix if present
             title = re.sub(r'\s*-\s*Windleblo\s*$', '', title)
+            # Remove "Windleblo: " prefix if present
+            title = re.sub(r'^Windleblo:\s*', '', title)
             
             # Extract post content - look for Blogspot-specific patterns
             content_patterns = [
@@ -114,7 +141,8 @@ class BlogspotMigrator:
             return {
                 'title': title,
                 'content': content,
-                'url': url
+                'url': url,
+                'html_content': html_content
             }
             
         except Exception as e:
@@ -209,8 +237,11 @@ original_url: {post_data['url']}
                 failed += 1
                 continue
             
+            # Try to get better date from post content
+            better_date = self.extract_better_date(post_data.get('html_content', ''), post_date)
+            
             # Create Jekyll post
-            if self.create_jekyll_post(post_data, post_date):
+            if self.create_jekyll_post(post_data, better_date):
                 successful += 1
             else:
                 failed += 1
