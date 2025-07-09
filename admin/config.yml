@@ -1,0 +1,39 @@
+backend:
+  name: github
+  repo: windleblo/blog
+  branch: main
+  
+media_folder: "assets/images"
+public_folder: "/assets/images"
+
+collections:
+  - name: "posts"
+    label: "Blog Posts"
+    folder: "_posts"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime", format: "YYYY-MM-DD HH:mm:ss"}
+      - {label: "Author", name: "author", widget: "string", default: "Jack"}
+      - {label: "Categories", name: "categories", widget: "list", default: ["uncategorized"]}
+      - {label: "Body", name: "body", widget: "markdown"}
+      
+  - name: "pages"
+    label: "Pages"
+    files:
+      - label: "About"
+        name: "about"
+        file: "about.md"
+        fields:
+          - {label: "Layout", name: "layout", widget: "hidden", default: "page"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - label: "Contact"
+        name: "contact"
+        file: "contact.md"
+        fields:
+          - {label: "Layout", name: "layout", widget: "hidden", default: "page"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
