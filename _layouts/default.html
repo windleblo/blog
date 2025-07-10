@@ -17,10 +17,15 @@
 <body>
   <header class="site-header">
     <div class="header-wrapper">
-      <h1 class="site-title">
-        <a href="{{ '/' | relative_url }}">{{ site.title }}</a>
-      </h1>
-      <p class="site-tagline">{{ site.tagline }}</p>
+      <div class="site-branding">
+        <img src="{{ '/assets/images/logo.png' | relative_url }}" alt="{{ site.title }} Logo" class="site-logo">
+        <div class="site-title-wrapper">
+          <h1 class="site-title">
+            <a href="{{ '/' | relative_url }}">{{ site.title }}</a>
+          </h1>
+          <p class="site-tagline">{{ site.tagline }}</p>
+        </div>
+      </div>
       
       <nav class="site-nav">
         <a href="{{ '/' | relative_url }}">Home</a>

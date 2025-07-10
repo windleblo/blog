@@ -6,12 +6,39 @@
   margin-bottom: 30px;
   width: 100%;
   max-width: none;
+  background-color: white;
 }
 
 .header-wrapper {
   max-width: 1200px;
   margin: 0 auto;
   padding: 0 40px;
+}
+
+/* Logo and branding layout */
+.site-branding {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  margin-bottom: 20px;
+}
+
+.site-logo {
+  height: 120px;
+  width: auto;
+}
+
+.site-title-wrapper {
+  flex: 1;
+}
+
+.site-title {
+  margin: 0;
+  line-height: 1.2;
+}
+
+.site-tagline {
+  margin: 5px 0 0 0;
 }
 
 /* Wider margins for better readability */
@@ -64,6 +91,14 @@
     padding: 0 30px;
   }
   
+  .site-branding {
+    gap: 15px;
+  }
+  
+  .site-logo {
+    height: 90px;
+  }
+  
   .page-content,
   .site-footer {
     padding-left: 30px;
@@ -86,6 +121,16 @@
 @media (max-width: 600px) {
   .header-wrapper {
     padding: 0 20px;
+  }
+  
+  .site-branding {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 10px;
+  }
+  
+  .site-logo {
+    height: 70px;
   }
   
   .page-content,
